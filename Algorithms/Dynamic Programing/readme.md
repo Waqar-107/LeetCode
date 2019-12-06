@@ -1,1 +1,3 @@
+[53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) : **The problem is known as kadanes algorithm. We use two variables to keep track of the maximum sum. We keep a sum variable. For each integer we add it to the sum variable. if it is positive then no problem but if it is negative then make it 0. In each iteration compare the maximum with the current sum.**
 
+**The maximum sum of sub-array will be a contiguous sub-array of positive numbers, so when ever the sum becomes less than 0 we reset it to 0. If all n numbers are negative then the ans will be the minimum of the array**
