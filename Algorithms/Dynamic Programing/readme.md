@@ -1,3 +1,5 @@
 [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) : **The problem is known as kadanes algorithm. We use two variables to keep track of the maximum sum. We keep a sum variable. For each integer we add it to the sum variable. if it is positive then no problem but if it is negative then make it 0. In each iteration compare the maximum with the current sum.**
 
 **The maximum sum of sub-array will be a contiguous sub-array of positive numbers, so when ever the sum becomes less than 0 we reset it to 0. If all n numbers are negative then the ans will be the minimum of the array**
+
+[392. Is Subsequence](https://leetcode.com/problems/is-subsequence/) : **Solved it without dp. A variable is pointing the first char of the string s. In a loop we iterate the string t. If current char is equal to the char that variable is pointing then we move the variable farther. If the variable reaches the end of the string s then it means s can be acquired from t**
