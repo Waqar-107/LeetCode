@@ -7,3 +7,5 @@
 [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) : **we can start at either at 0 or 1, so cost to reach these two is 0. now for the stairs >= 2, we can reach here either from i-1 th stair or i-2 th stair**
 
 [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) : **return (n+1)th fibonacci**
+
+[198. House Robber](https://leetcode.com/problems/house-robber/) : **if we are going to take ith then we can't take (i-1) so max we get is cost[i] + cost of i - 2. if we take (i-1) then we won't take ith** 
