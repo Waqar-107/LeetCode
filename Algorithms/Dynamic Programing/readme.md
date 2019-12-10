@@ -12,4 +12,4 @@
 
 [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) : **straight forward problem, pre-calculate sum, store sum of 1 to i where 1 <= i <= n**
 
-[338. Counting Bits](https://leetcode.com/problems/counting-bits/) : **the problem is solved in a recursive approach. we generate all the numbers from 1 to n**
+[338. Counting Bits](https://leetcode.com/problems/counting-bits/) : **the problem is solved in a recursive approach. we generate all the numbers from 1 to n. we start with 0, from 0 we make 01 and 00, from 01 we make...**
