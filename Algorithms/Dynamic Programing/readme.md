@@ -3,3 +3,5 @@
 **The maximum sum of sub-array will be a contiguous sub-array of positive numbers, so when ever the sum becomes less than 0 we reset it to 0. If all n numbers are negative then the ans will be the minimum of the array**
 
 [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/) : **Solved it without dp. A variable is pointing the first char of the string s. In a loop we iterate the string t. If current char is equal to the char that variable is pointing then we move the variable farther. If the variable reaches the end of the string s then it means s can be acquired from t**
+
+[746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) : **we can start at either at 0 or 1, so cost to reach these two is 0. now for the stairs >= 2, we can reach here either from i-1 th stair or i-2 th stair**
