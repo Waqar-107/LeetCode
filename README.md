@@ -8,3 +8,4 @@
 |            |https://leetcode.com/problems/number-of-good-pairs|
 |            |https://leetcode.com/problems/positions-of-large-groups|
 |            |https://leetcode.com/problems/validate-ip-address|
+|            |https://leetcode.com/problems/available-captures-for-rook|
