@@ -9,5 +9,11 @@
 | 04/09/2020 |[Partition Labels](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/554/week-1-september-1st-september-7th/3448/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/September%20Challenge/Partition%20Labels.cpp)|
 | 05/09/2020 |[All Elements in Two Binary Search Trees](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/554/week-1-september-1st-september-7th/3449/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/September%20Challenge/All%20Elements%20in%20Two%20Binary%20Search%20Trees.cpp)|
 | 06/09/2020 |[Image Overlap](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/554/week-1-september-1st-september-7th/3450/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/September%20Challenge/Image%20Overlap.cpp)|
-| 07/09/2020 |[]()|[solution]()|
+| 07/09/2020 |[Word Pattern](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/554/week-1-september-1st-september-7th/3451/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/September%20Challenge/Word%20Pattern.py)|
 | 08/09/2020 |[]()|[solution]()|
+| 09/09/2020 |[]()|[solution]()|
+| 10/09/2020 |[]()|[solution]()|
+| 11/09/2020 |[]()|[solution]()|
+| 12/09/2020 |[]()|[solution]()|
+| 13/09/2020 |[]()|[solution]()|
+| 14/09/2020 |[]()|[solution]()|
