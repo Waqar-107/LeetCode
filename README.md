@@ -10,7 +10,7 @@
 | 05/09/2020 |[All Elements in Two Binary Search Trees](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/554/week-1-september-1st-september-7th/3449/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/September%20Challenge/All%20Elements%20in%20Two%20Binary%20Search%20Trees.cpp)|
 | 06/09/2020 |[Image Overlap](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/554/week-1-september-1st-september-7th/3450/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/September%20Challenge/Image%20Overlap.cpp)|
 | 07/09/2020 |[Word Pattern](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/554/week-1-september-1st-september-7th/3451/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/September%20Challenge/Word%20Pattern.py)|
-| 08/09/2020 |[]()|[solution]()|
+| 08/09/2020 |[Sum of Root To Leaf Binary Numbers](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/555/week-2-september-8th-september-14th/3453/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/September%20Challenge/All%20Elements%20in%20Two%20Binary%20Search%20Trees.cpp)|
 | 09/09/2020 |[]()|[solution]()|
 | 10/09/2020 |[]()|[solution]()|
 | 11/09/2020 |[]()|[solution]()|
