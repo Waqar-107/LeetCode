@@ -14,6 +14,6 @@
 | 09/09/2020 |[Compare Version Numbers](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/555/week-2-september-8th-september-14th/3454/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/September%20Challenge/Compare%20Version%20Numbers.py)|
 | 10/09/2020 |[Bulls and Cows](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/555/week-2-september-8th-september-14th/3455/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/September%20Challenge/Bulls%20and%20Cows.cpp)|
 | 11/09/2020 |[Maximum Product Subarray](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/555/week-2-september-8th-september-14th/3456/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/September%20Challenge/Maximum%20Product%20Subarray.cpp)|
-| 12/09/2020 |[]()|[solution]()|
+| 12/09/2020 |[Combination Sum III](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/555/week-2-september-8th-september-14th/3457/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/September%20Challenge/Combination%20Sum%20III.py)|
 | 13/09/2020 |[]()|[solution]()|
 | 14/09/2020 |[]()|[solution]()|
