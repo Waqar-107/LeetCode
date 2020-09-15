@@ -17,7 +17,7 @@
 | 12/09/2020 |[Combination Sum III](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/555/week-2-september-8th-september-14th/3457/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/September%20Challenge/Combination%20Sum%20III.py)|
 | 13/09/2020 |[Insert Interval](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/555/week-2-september-8th-september-14th/3458/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/September%20Challenge/Insert%20Interval.cpp)|
 | 14/09/2020 |[House Robber](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/555/week-2-september-8th-september-14th/3459/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/September%20Challenge/House%20Robber.py)|
-| 15/09/2020 |[]()|[solution]()|
+| 15/09/2020 |[Length of Last Word](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/556/week-3-september-15th-september-21st/3461/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/September%20Challenge/Length%20of%20Last%20Word.py)|
 | 16/09/2020 |[]()|[solution]()|
 | 17/09/2020 |[]()|[solution]()|
 | 18/09/2020 |[]()|[solution]()|
