@@ -22,7 +22,7 @@
 | 17/09/2020 |[Robot Bounded In Circle](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/556/week-3-september-15th-september-21st/3463/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/September%20Challenge/Robot%20Bounded%20In%20Circle.cpp)|
 | 18/09/2020 |[Best Time to Buy and Sell Stock](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/556/week-3-september-15th-september-21st/3464/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/September%20Challenge/Best%20Time%20to%20Buy%20and%20Sell%20Stock.cpp)|
 | 19/09/2020 |[Sequential Digits](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/556/week-3-september-15th-september-21st/3465/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/September%20Challenge/Sequential%20Digits.cpp)|
-| 20/09/2020 |[]()|[solution]()|
+| 20/09/2020 |[Unique Paths III](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/556/week-3-september-15th-september-21st/3466/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/September%20Challenge/Unique%20Paths%20III.cpp)|
 | 21/09/2020 |[]()|[solution]()|
 | 22/09/2020 |[]()|[solution]()|
 | 23/09/2020 |[]()|[solution]()|
