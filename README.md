@@ -26,7 +26,7 @@
 | 21/09/2020 |[Car Pooling](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/556/week-3-september-15th-september-21st/3467/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/September%20Challenge/Car%20Pooling.py)|
 | 22/09/2020 |[Majority Element II](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/557/week-4-september-22nd-september-28th/3469/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/September%20Challenge/Majority%20Element%20II.cpp)|
 | 23/09/2020 |[Gas Station](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/557/week-4-september-22nd-september-28th/3470/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/September%20Challenge/Gas%20Station.py)|
-| 24/09/2020 |[]()|[solution]()|
+| 24/09/2020 |[Find the Difference](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/557/week-4-september-22nd-september-28th/3471/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/September%20Challenge/Find%20the%20Difference.py)|
 | 25/09/2020 |[]()|[solution]()|
 | 26/09/2020 |[]()|[solution]()|
 | 27/09/2020 |[]()|[solution]()|
