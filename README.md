@@ -28,7 +28,7 @@
 | 23/09/2020 |[Gas Station](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/557/week-4-september-22nd-september-28th/3470/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/September%20Challenge/Gas%20Station.py)|
 | 24/09/2020 |[Find the Difference](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/557/week-4-september-22nd-september-28th/3471/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/September%20Challenge/Find%20the%20Difference.py)|
 | 25/09/2020 |[Largest Number](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/557/week-4-september-22nd-september-28th/3472/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/September%20Challenge/Largest%20Number.cpp)|
-| 26/09/2020 |[]()|[solution]()|
+| 26/09/2020 |[Teemo Attacking](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/557/week-4-september-22nd-september-28th/3473/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/September%20Challenge/Teemo%20Attacking.py)|
 | 27/09/2020 |[]()|[solution]()|
 | 28/09/2020 |[]()|[solution]()|
 | 29/09/2020 |[]()|[solution]()|
