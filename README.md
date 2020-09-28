@@ -37,4 +37,6 @@
 
 ## October Challenge
 
+| Date       | problem-link | solution |
+|------------|--------------|----------|
 | 30/09/2020 |[]()|[solution]()|
