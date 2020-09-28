@@ -30,6 +30,11 @@
 | 25/09/2020 |[Largest Number](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/557/week-4-september-22nd-september-28th/3472/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/September%20Challenge/Largest%20Number.cpp)|
 | 26/09/2020 |[Teemo Attacking](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/557/week-4-september-22nd-september-28th/3473/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/September%20Challenge/Teemo%20Attacking.py)|
 | 27/09/2020 |[Evaluate Divison](https://leetcode.com/explore/featured/card/september-leetcoding-challenge/557/week-4-september-22nd-september-28th/3474/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/September%20Challenge/Evaluate%20Division.py)|
-| 28/09/2020 |[]()|[solution]()|
+| 28/09/2020 |[Subarray Product Less Than K](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/557/week-4-september-22nd-september-28th/3475/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/September%20Challenge/Subarray%20Product%20Less%20Than%20K.cpp)|
 | 29/09/2020 |[]()|[solution]()|
+| 30/09/2020 |[]()|[solution]()|
+
+
+## October Challenge
+
 | 30/09/2020 |[]()|[solution]()|
