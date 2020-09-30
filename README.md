@@ -32,7 +32,7 @@
 | 27/09/2020 |[Evaluate Divison](https://leetcode.com/explore/featured/card/september-leetcoding-challenge/557/week-4-september-22nd-september-28th/3474/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/September%20Challenge/Evaluate%20Division.py)|
 | 28/09/2020 |[Subarray Product Less Than K](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/557/week-4-september-22nd-september-28th/3475/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/September%20Challenge/Subarray%20Product%20Less%20Than%20K.cpp)|
 | 29/09/2020 |[Word Break](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/558/week-5-september-29th-september-30th/3477/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/September%20Challenge/Word%20Break.py)|
-| 30/09/2020 |[]()|[solution]()|
+| 30/09/2020 |[First Missing Positive](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/558/week-5-september-29th-september-30th/3478/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/September%20Challenge/First%20Missing%20Positive.py)|
 
 
 ## October Challenge
