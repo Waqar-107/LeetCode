@@ -40,9 +40,9 @@
 | Date       | problem-link | solution |
 |------------|--------------|----------|
 | 01/10/2020 |[Number of Recent Calls](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3480/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/October%20Challenge/Number%20of%20Recent%20Calls.cpp)|
-| 01/10/2020 |[]()|[solution]()|
-| 01/10/2020 |[]()|[solution]()|
-| 01/10/2020 |[]()|[solution]()|
-| 01/10/2020 |[]()|[solution]()|
-| 01/10/2020 |[]()|[solution]()|
-| 01/10/2020 |[]()|[solution]()|
+| 02/10/2020 |[Combination Sum](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3481/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/October%20Challenge/Combination%20Sum.py)|
+| 03/10/2020 |[]()|[solution]()|
+| 04/10/2020 |[]()|[solution]()|
+| 05/10/2020 |[]()|[solution]()|
+| 06/10/2020 |[]()|[solution]()|
+| 07/10/2020 |[]()|[solution]()|
