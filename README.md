@@ -41,7 +41,7 @@
 |------------|--------------|----------|
 | 01/10/2020 |[Number of Recent Calls](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3480/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/October%20Challenge/Number%20of%20Recent%20Calls.cpp)|
 | 02/10/2020 |[Combination Sum](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3481/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/October%20Challenge/Combination%20Sum.py)|
-| 03/10/2020 |[]()|[solution]()|
+| 03/10/2020 |[K-diff Pairs in an Array](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3482/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/October%20Challenge/K-diff%20Pairs%20in%20an%20Array.py)|
 | 04/10/2020 |[]()|[solution]()|
 | 05/10/2020 |[]()|[solution]()|
 | 06/10/2020 |[]()|[solution]()|
