@@ -43,6 +43,30 @@
 | 02/10/2020 |[Combination Sum](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3481/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/October%20Challenge/Combination%20Sum.py)|
 | 03/10/2020 |[K-diff Pairs in an Array](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3482/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/October%20Challenge/K-diff%20Pairs%20in%20an%20Array.py)|
 | 04/10/2020 |[Remove Covered Intervals](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3483/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/October%20Challenge/Remove%20Covered%20Intervals%20%20Solution.cpp)|
-| 05/10/2020 |[]()|[solution]()|
+| 05/10/2020 |[Complement of Base 10 Integer](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3484/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/October%20Challenge/Complement%20of%20Base%2010%20Integer.cpp)|
 | 06/10/2020 |[]()|[solution]()|
 | 07/10/2020 |[]()|[solution]()|
+| 08/10/2020 |[]()|[solution]()|
+| 09/10/2020 |[]()|[solution]()|
+| 10/10/2020 |[]()|[solution]()|
+| 11/10/2020 |[]()|[solution]()|
+| 12/10/2020 |[]()|[solution]()|
+| 13/10/2020 |[]()|[solution]()|
+| 14/10/2020 |[]()|[solution]()|
+| 15/10/2020 |[]()|[solution]()|
+| 16/10/2020 |[]()|[solution]()|
+| 17/10/2020 |[]()|[solution]()|
+| 18/10/2020 |[]()|[solution]()|
+| 19/10/2020 |[]()|[solution]()|
+| 20/10/2020 |[]()|[solution]()|
+| 21/10/2020 |[]()|[solution]()|
+| 22/10/2020 |[]()|[solution]()|
+| 23/10/2020 |[]()|[solution]()|
+| 24/10/2020 |[]()|[solution]()|
+| 25/10/2020 |[]()|[solution]()|
+| 26/10/2020 |[]()|[solution]()|
+| 27/10/2020 |[]()|[solution]()|
+| 28/10/2020 |[]()|[solution]()|
+| 29/10/2020 |[]()|[solution]()|
+| 30/10/2020 |[]()|[solution]()|
+| 31/10/2020 |[]()|[solution]()|
