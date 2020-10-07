@@ -45,7 +45,7 @@
 | 04/10/2020 |[Remove Covered Intervals](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3483/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/October%20Challenge/Remove%20Covered%20Intervals%20%20Solution.cpp)|
 | 05/10/2020 |[Complement of Base 10 Integer](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3484/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/October%20Challenge/Complement%20of%20Base%2010%20Integer.cpp)|
 | 06/10/2020 |[Insert into a Binary Search Tree](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3485/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/October%20Challenge/Insert%20into%20a%20Binary%20Search%20Tree.cpp)|
-| 07/10/2020 |[]()|[solution]()|
+| 07/10/2020 |[Rotate List](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3486/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/October%20Challenge/Rotate%20List.cpp)|
 | 08/10/2020 |[]()|[solution]()|
 | 09/10/2020 |[]()|[solution]()|
 | 10/10/2020 |[]()|[solution]()|
