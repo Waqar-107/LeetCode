@@ -46,7 +46,7 @@
 | 05/10/2020 |[Complement of Base 10 Integer](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3484/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/October%20Challenge/Complement%20of%20Base%2010%20Integer.cpp)|
 | 06/10/2020 |[Insert into a Binary Search Tree](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3485/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/October%20Challenge/Insert%20into%20a%20Binary%20Search%20Tree.cpp)|
 | 07/10/2020 |[Rotate List](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3486/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/October%20Challenge/Rotate%20List.cpp)|
-| 08/10/2020 |[]()|[solution]()|
+| 08/10/2020 |[Binary Search](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3488/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/October%20Challenge/Binary%20Search.py)|
 | 09/10/2020 |[]()|[solution]()|
 | 10/10/2020 |[]()|[solution]()|
 | 11/10/2020 |[]()|[solution]()|
