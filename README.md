@@ -47,7 +47,7 @@
 | 06/10/2020 |[Insert into a Binary Search Tree](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3485/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/October%20Challenge/Insert%20into%20a%20Binary%20Search%20Tree.cpp)|
 | 07/10/2020 |[Rotate List](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3486/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/October%20Challenge/Rotate%20List.cpp)|
 | 08/10/2020 |[Binary Search](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3488/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/October%20Challenge/Binary%20Search.py)|
-| 09/10/2020 |[]()|[solution]()|
+| 09/10/2020 |[Serialize and Deserialize BST](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3489/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/October%20Challenge/Serialize%20and%20Deserialize%20BST.py)|
 | 10/10/2020 |[]()|[solution]()|
 | 11/10/2020 |[]()|[solution]()|
 | 12/10/2020 |[]()|[solution]()|
