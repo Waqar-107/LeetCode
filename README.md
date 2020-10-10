@@ -48,7 +48,7 @@
 | 07/10/2020 |[Rotate List](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3486/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/October%20Challenge/Rotate%20List.cpp)|
 | 08/10/2020 |[Binary Search](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3488/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/October%20Challenge/Binary%20Search.py)|
 | 09/10/2020 |[Serialize and Deserialize BST](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3489/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/October%20Challenge/Serialize%20and%20Deserialize%20BST.py)|
-| 10/10/2020 |[]()|[solution]()|
+| 10/10/2020 |[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3490/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/October%20Challenge/Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons.py)|
 | 11/10/2020 |[]()|[solution]()|
 | 12/10/2020 |[]()|[solution]()|
 | 13/10/2020 |[]()|[solution]()|
