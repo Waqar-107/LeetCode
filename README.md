@@ -49,7 +49,7 @@
 | 08/10/2020 |[Binary Search](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3488/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/October%20Challenge/Binary%20Search.py)|
 | 09/10/2020 |[Serialize and Deserialize BST](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3489/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/October%20Challenge/Serialize%20and%20Deserialize%20BST.py)|
 | 10/10/2020 |[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3490/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/October%20Challenge/Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons.py)|
-| 11/10/2020 |[]()|[solution]()|
+| 11/10/2020 |[Remove Duplicate Letters](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3491/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/October%20Challenge/Remove%20Duplicate%20Letters.cpp)|
 | 12/10/2020 |[]()|[solution]()|
 | 13/10/2020 |[]()|[solution]()|
 | 14/10/2020 |[]()|[solution]()|
