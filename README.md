@@ -53,7 +53,7 @@
 | 12/10/2020 |[Buddy Strings](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3492/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/October%20Challenge/Buddy%20Strings.cpp)|
 | 13/10/2020 |[Sort List](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3493/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/October%20Challenge/Sort%20List.py)|
 | 14/10/2020 |[House Robber II](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3494/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/October%20Challenge/House%20Robber%20II.py)|
-| 15/10/2020 |[]()|[solution]()|
+| 15/10/2020 |[Rotate Array](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/561/week-3-october-15th-october-21st/3496/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/October%20Challenge/Rotate%20Array.py)|
 | 16/10/2020 |[]()|[solution]()|
 | 17/10/2020 |[]()|[solution]()|
 | 18/10/2020 |[]()|[solution]()|
