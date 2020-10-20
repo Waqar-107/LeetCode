@@ -58,7 +58,7 @@
 | 17/10/2020 |[Repeated DNA Sequences](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/561/week-3-october-15th-october-21st/3498/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/October%20Challenge/Repeated%20DNA%20Sequences.cpp)|
 | 18/10/2020 |[Best Time to Buy and Sell Stock IV](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/561/week-3-october-15th-october-21st/3499/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/October%20Challenge/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV.py)|
 | 19/10/2020 |[Minimum Domino Rotations For Equal Row](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/561/week-3-october-15th-october-21st/3500/)|[solution](https://github.com/Waqar-107/LeetCode/tree/master/October%20Challenge)|
-| 20/10/2020 |[]()|[solution]()|
+| 20/10/2020 |[Clone Graph](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/561/week-3-october-15th-october-21st/3501/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/October%20Challenge/Clone%20Graph.py)|
 | 21/10/2020 |[]()|[solution]()|
 | 22/10/2020 |[]()|[solution]()|
 | 23/10/2020 |[]()|[solution]()|
