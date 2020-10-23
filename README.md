@@ -61,7 +61,7 @@
 | 20/10/2020 |[Clone Graph](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/561/week-3-october-15th-october-21st/3501/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/October%20Challenge/Clone%20Graph.py)|
 | 21/10/2020 |[Asteroid Collision](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/561/week-3-october-15th-october-21st/3502/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/October%20Challenge/Asteroid%20Collision.cpp)|
 | 22/10/2020 |[Minimum Depth of Binary Tree](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/562/week-4-october-22nd-october-28th/3504/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/October%20Challenge/Minimum%20Depth%20of%20Binary%20Tree.py)|
-| 23/10/2020 |[]()|[solution]()|
+| 23/10/2020 |[132 Pattern](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/562/week-4-october-22nd-october-28th/3505/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/October%20Challenge/132%20Pattern.py)|
 | 24/10/2020 |[]()|[solution]()|
 | 25/10/2020 |[]()|[solution]()|
 | 26/10/2020 |[]()|[solution]()|
