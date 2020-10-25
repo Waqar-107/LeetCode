@@ -62,7 +62,7 @@
 | 21/10/2020 |[Asteroid Collision](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/561/week-3-october-15th-october-21st/3502/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/October%20Challenge/Asteroid%20Collision.cpp)|
 | 22/10/2020 |[Minimum Depth of Binary Tree](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/562/week-4-october-22nd-october-28th/3504/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/October%20Challenge/Minimum%20Depth%20of%20Binary%20Tree.py)|
 | 23/10/2020 |[132 Pattern](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/562/week-4-october-22nd-october-28th/3505/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/October%20Challenge/132%20Pattern.py)|
-| 24/10/2020 |[https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/562/week-4-october-22nd-october-28th/3506/](Bag of Tokens)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/October%20Challenge/Bag%20of%20Tokens.py)|
+| 24/10/2020 |[Bag of Tokens](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/562/week-4-october-22nd-october-28th/3506/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/October%20Challenge/Bag%20of%20Tokens.py)|
 | 25/10/2020 |[Stone Game IV](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/562/week-4-october-22nd-october-28th/3507/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/October%20Challenge/Stone%20Game%20IV.py)|
 | 26/10/2020 |[]()|[solution]()|
 | 27/10/2020 |[]()|[solution]()|
