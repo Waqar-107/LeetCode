@@ -65,7 +65,7 @@
 | 24/10/2020 |[Bag of Tokens](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/562/week-4-october-22nd-october-28th/3506/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/October%20Challenge/Bag%20of%20Tokens.py)|
 | 25/10/2020 |[Stone Game IV](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/562/week-4-october-22nd-october-28th/3507/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/October%20Challenge/Stone%20Game%20IV.py)|
 | 26/10/2020 |[Champagne Tower](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/562/week-4-october-22nd-october-28th/3508/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/October%20Challenge/Champagne%20Tower.py)|
-| 27/10/2020 |[]()|[solution]()|
+| 27/10/2020 |[Linked List Cycle II](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/562/week-4-october-22nd-october-28th/3509/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/October%20Challenge/Linked%20List%20Cycle%20II.py)|
 | 28/10/2020 |[]()|[solution]()|
 | 29/10/2020 |[]()|[solution]()|
 | 30/10/2020 |[]()|[solution]()|
