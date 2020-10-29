@@ -67,6 +67,17 @@
 | 26/10/2020 |[Champagne Tower](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/562/week-4-october-22nd-october-28th/3508/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/October%20Challenge/Champagne%20Tower.py)|
 | 27/10/2020 |[Linked List Cycle II](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/562/week-4-october-22nd-october-28th/3509/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/October%20Challenge/Linked%20List%20Cycle%20II.py)|
 | 28/10/2020 |[Summary Ranges](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/562/week-4-october-22nd-october-28th/3510/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/October%20Challenge/Summary%20Ranges.py)|
-| 29/10/2020 |[]()|[solution]()|
+| 29/10/2020 |[Maximize Distance to Closest Person](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/563/week-5-october-29th-october-31st/3512/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/October%20Challenge/Maximize%20Distance%20to%20Closest%20Person.py)|
 | 30/10/2020 |[]()|[solution]()|
 | 31/10/2020 |[]()|[solution]()|
+
+
+## November Challenge
+
+| Date       | problem-link | solution |
+|------------|--------------|----------|
+| 01/11/2020 |[]()|[solution]()|
+| 02/11/2020 |[]()|[solution]()|
+| 03/11/2020 |[]()|[solution]()|
+| 04/11/2020 |[]()|[solution]()|
+| 05/11/2020 |[]()|[solution]()|
