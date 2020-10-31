@@ -69,7 +69,7 @@
 | 28/10/2020 |[Summary Ranges](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/562/week-4-october-22nd-october-28th/3510/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/October%20Challenge/Summary%20Ranges.py)|
 | 29/10/2020 |[Maximize Distance to Closest Person](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/563/week-5-october-29th-october-31st/3512/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/October%20Challenge/Maximize%20Distance%20to%20Closest%20Person.py)|
 | 30/10/2020 |[Number of Longest Increasing Subsequence](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/563/week-5-october-29th-october-31st/3513/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/October%20Challenge/Number%20of%20Longest%20Increasing%20Subsequence.py)|
-| 31/10/2020 |[]()|[solution]()|
+| 31/10/2020 |[Recover Binary Search Tree](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/563/week-5-october-29th-october-31st/3514/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/October%20Challenge/Recover%20Binary%20Search%20Tree.py)|
 
 
 ## November Challenge
