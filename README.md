@@ -76,7 +76,7 @@
 
 | Date       | problem-link | solution |
 |------------|--------------|----------|
-| 01/11/2020 |[]()|[solution]()|
+| 01/11/2020 |[Convert Binary Number in a Linked List to Integer](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/564/week-1-november-1st-november-7th/3516/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/November%20Challenge/Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.java)|
 | 02/11/2020 |[]()|[solution]()|
 | 03/11/2020 |[]()|[solution]()|
 | 04/11/2020 |[]()|[solution]()|
