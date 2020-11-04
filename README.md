@@ -79,7 +79,7 @@
 | 01/11/2020 |[Convert Binary Number in a Linked List to Integer](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/564/week-1-november-1st-november-7th/3516/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/November%20Challenge/Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.java)|
 | 02/11/2020 |[Insertion Sort List](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/564/week-1-november-1st-november-7th/3517/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/November%20Challenge/Insertion%20Sort%20List.py)|
 | 03/11/2020 |[Consecutive Characters](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/564/week-1-november-1st-november-7th/3518/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/November%20Challenge/Consecutive%20Characters.py)|
-| 04/11/2020 |[]()|[solution]()|
+| 04/11/2020 |[Minimum Height Trees](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/564/week-1-november-1st-november-7th/3519/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/November%20Challenge/Minimum%20Height%20Trees.py)|
 | 05/11/2020 |[]()|[solution]()|
 | 06/11/2020 |[]()|[solution]()|
 | 07/11/2020 |[]()|[solution]()|
