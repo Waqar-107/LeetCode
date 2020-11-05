@@ -80,7 +80,7 @@
 | 02/11/2020 |[Insertion Sort List](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/564/week-1-november-1st-november-7th/3517/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/November%20Challenge/Insertion%20Sort%20List.py)|
 | 03/11/2020 |[Consecutive Characters](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/564/week-1-november-1st-november-7th/3518/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/November%20Challenge/Consecutive%20Characters.py)|
 | 04/11/2020 |[Minimum Height Trees](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/564/week-1-november-1st-november-7th/3519/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/November%20Challenge/Minimum%20Height%20Trees.py)|
-| 05/11/2020 |[]()|[solution]()|
+| 05/11/2020 |[Minimum Cost to Move Chips to The Same Position](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/564/week-1-november-1st-november-7th/3520/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/November%20Challenge/Minimum%20Cost%20to%20Move%20Chips%20to%20The%20Same%20Position.java)|
 | 06/11/2020 |[]()|[solution]()|
 | 07/11/2020 |[]()|[solution]()|
 | 08/11/2020 |[]()|[solution]()|
