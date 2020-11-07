@@ -82,7 +82,7 @@
 | 04/11/2020 |[Minimum Height Trees](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/564/week-1-november-1st-november-7th/3519/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/November%20Challenge/Minimum%20Height%20Trees.py)|
 | 05/11/2020 |[Minimum Cost to Move Chips to The Same Position](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/564/week-1-november-1st-november-7th/3520/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/November%20Challenge/Minimum%20Cost%20to%20Move%20Chips%20to%20The%20Same%20Position.java)|
 | 06/11/2020 |[Find the Smallest Divisor Given a Threshold](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/564/week-1-november-1st-november-7th/3521/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/November%20Challenge/Find%20the%20Smallest%20Divisor%20Given%20a%20Threshold.cpp)|
-| 07/11/2020 |[]()|[solution]()|
+| 07/11/2020 |[Add Two Numbers II](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/564/week-1-november-1st-november-7th/3522/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/November%20Challenge/Add%20Two%20Numbers%20II.py)|
 | 08/11/2020 |[]()|[solution]()|
 | 09/11/2020 |[]()|[solution]()|
 | 10/11/2020 |[]()|[solution]()|
