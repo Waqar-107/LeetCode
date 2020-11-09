@@ -84,5 +84,15 @@
 | 06/11/2020 |[Find the Smallest Divisor Given a Threshold](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/564/week-1-november-1st-november-7th/3521/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/November%20Challenge/Find%20the%20Smallest%20Divisor%20Given%20a%20Threshold.cpp)|
 | 07/11/2020 |[Add Two Numbers II](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/564/week-1-november-1st-november-7th/3522/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/November%20Challenge/Add%20Two%20Numbers%20II.py)|
 | 08/11/2020 |[Binary Tree Tilt](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/565/week-2-november-8th-november-14th/3524/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/November%20Challenge/Binary%20Tree%20Tilt.cpp)|
-| 09/11/2020 |[]()|[solution]()|
+| 09/11/2020 |[Maximum Difference Between Node and Ancestor](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/565/week-2-november-8th-november-14th/3525/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/November%20Challenge/Maximum%20Difference%20Between%20Node%20and%20Ancestor.cpp)|
 | 10/11/2020 |[]()|[solution]()|
+| 11/11/2020 |[]()|[solution]()|
+| 12/11/2020 |[]()|[solution]()|
+| 13/11/2020 |[]()|[solution]()|
+| 14/11/2020 |[]()|[solution]()|
+| 15/11/2020 |[]()|[solution]()|
+| 16/11/2020 |[]()|[solution]()|
+| 17/11/2020 |[]()|[solution]()|
+| 18/11/2020 |[]()|[solution]()|
+| 19/11/2020 |[]()|[solution]()|
+| 20/11/2020 |[]()|[solution]()|
