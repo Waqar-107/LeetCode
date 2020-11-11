@@ -86,7 +86,7 @@
 | 08/11/2020 |[Binary Tree Tilt](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/565/week-2-november-8th-november-14th/3524/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/November%20Challenge/Binary%20Tree%20Tilt.cpp)|
 | 09/11/2020 |[Maximum Difference Between Node and Ancestor](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/565/week-2-november-8th-november-14th/3525/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/November%20Challenge/Maximum%20Difference%20Between%20Node%20and%20Ancestor.cpp)|
 | 10/11/2020 |[Flipping an Image](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/565/week-2-november-8th-november-14th/3526/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/November%20Challenge/Flipping%20an%20Image.py)|
-| 11/11/2020 |[]()|[solution]()|
+| 11/11/2020 |[Valid Square](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/565/week-2-november-8th-november-14th/3527/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/November%20Challenge/Valid%20Square.py)|
 | 12/11/2020 |[]()|[solution]()|
 | 13/11/2020 |[]()|[solution]()|
 | 14/11/2020 |[]()|[solution]()|
