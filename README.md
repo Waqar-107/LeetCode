@@ -87,9 +87,9 @@
 | 09/11/2020 |[Maximum Difference Between Node and Ancestor](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/565/week-2-november-8th-november-14th/3525/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/November%20Challenge/Maximum%20Difference%20Between%20Node%20and%20Ancestor.cpp)|
 | 10/11/2020 |[Flipping an Image](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/565/week-2-november-8th-november-14th/3526/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/November%20Challenge/Flipping%20an%20Image.py)|
 | 11/11/2020 |[Valid Square](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/565/week-2-november-8th-november-14th/3527/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/November%20Challenge/Valid%20Square.py)|
-| 12/11/2020 |[]()|[solution]()|
-| 13/11/2020 |[]()|[solution]()|
-| 14/11/2020 |[]()|[solution]()|
+| 12/11/2020 |[Permutations II](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/565/week-2-november-8th-november-14th/3528/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/November%20Challenge/Permutations%20II.py)|
+| 13/11/2020 |[Populating Next Right Pointers in Each Node](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/565/week-2-november-8th-november-14th/3529/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/November%20Challenge/Populating%20Next%20Right%20Pointers%20in%20Each%20Node.py)|
+| 14/11/2020 |[Poor Pigs](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/565/week-2-november-8th-november-14th/3530/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/November%20Challenge/Poor%20pigs.py)|
 | 15/11/2020 |[]()|[solution]()|
 | 16/11/2020 |[]()|[solution]()|
 | 17/11/2020 |[]()|[solution]()|
