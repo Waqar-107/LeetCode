@@ -97,7 +97,7 @@
 | 19/11/2020 |[Decode String](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/566/week-3-november-15th-november-21st/3536/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/November%20Challenge/Decode%20String.py)|
 | 20/11/2020 |[Search in Rotated Sorted Array II](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/566/week-3-november-15th-november-21st/3537/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/November%20Challenge/Search%20in%20Rotated%20Sorted%20Array%20II.py)|
 | 21/11/2020 |[]()|[solution]()|
-| 22/11/2020 |[]()|[solution]()|
+| 22/11/2020 |[Unique Morse Code Words](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/567/week-4-november-22nd-november-28th/3540/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/November%20Challenge/Unique%20Morse%20Code%20Words.py)|
 | 23/11/2020 |[]()|[solution]()|
 | 24/11/2020 |[]()|[solution]()|
 | 25/11/2020 |[]()|[solution]()|
