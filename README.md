@@ -102,7 +102,7 @@
 | 24/11/2020 |[Basic Calculator II](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/567/week-4-november-22nd-november-28th/3542/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/November%20Challenge/Basic%20Calculator%20II.py)|
 | 25/11/2020 |[Smallest Integer Divisible by K](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/567/week-4-november-22nd-november-28th/3543/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/November%20Challenge/Smallest%20Integer%20Divisible%20by%20K.py)|
 | 26/11/2020 |[Longest Substring with At Least K Repeating Characters](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/567/week-4-november-22nd-november-28th/3544/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/November%20Challenge/Longest%20Substring%20with%20At%20Least%20K%20Repeating%20Characters.py)|
-| 27/11/2020 |[]()|[solution]()|
+| 27/11/2020 |[Partition Equal Subset Sum](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/567/week-4-november-22nd-november-28th/3545/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/November%20Challenge/Partition%20Equal%20Subset%20Sum.cpp)|
 | 28/11/2020 |[]()|[solution]()|
 | 29/11/2020 |[]()|[solution]()|
 | 30/11/2020 |[]()|[solution]()|
