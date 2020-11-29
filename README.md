@@ -104,5 +104,5 @@
 | 26/11/2020 |[Longest Substring with At Least K Repeating Characters](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/567/week-4-november-22nd-november-28th/3544/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/November%20Challenge/Longest%20Substring%20with%20At%20Least%20K%20Repeating%20Characters.py)|
 | 27/11/2020 |[Partition Equal Subset Sum](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/567/week-4-november-22nd-november-28th/3545/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/November%20Challenge/Partition%20Equal%20Subset%20Sum.cpp)|
 | 28/11/2020 |[Sliding Window Maximum](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/567/week-4-november-22nd-november-28th/3546/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/November%20Challenge/Sliding%20Window%20Maximum.cpp)|
-| 29/11/2020 |[]()|[solution]()|
+| 29/11/2020 |[Jump Game III](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/568/week-5-november-29th-november-30th/3548/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/November%20Challenge/Jump%20Game%20III.py)|
 | 30/11/2020 |[]()|[solution]()|
