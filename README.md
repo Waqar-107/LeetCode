@@ -106,3 +106,18 @@
 | 28/11/2020 |[Sliding Window Maximum](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/567/week-4-november-22nd-november-28th/3546/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/November%20Challenge/Sliding%20Window%20Maximum.cpp)|
 | 29/11/2020 |[Jump Game III](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/568/week-5-november-29th-november-30th/3548/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/November%20Challenge/Jump%20Game%20III.py)|
 | 30/11/2020 |[]()|[solution]()|
+
+
+## December Challenge
+| Date       | problem-link | solution |
+|------------|--------------|----------|
+| 01/12/2020 |[Maximum Depth of Binary Tree](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/569/week-1-december-1st-december-7th/3551/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/December%20Challenge/Maximum%20Depth%20of%20Binary%20Tree.java)|
+| 02/12/2020 |[]()|[solution]()|
+| 03/12/2020 |[]()|[solution]()|
+| 04/12/2020 |[]()|[solution]()|
+| 05/12/2020 |[]()|[solution]()|
+| 06/12/2020 |[]()|[solution]()|
+| 07/12/2020 |[]()|[solution]()|
+| 08/12/2020 |[]()|[solution]()|
+| 09/12/2020 |[]()|[solution]()|
+| 10/12/2020 |[]()|[solution]()|
