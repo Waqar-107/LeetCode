@@ -112,7 +112,7 @@
 | Date       | problem-link | solution |
 |------------|--------------|----------|
 | 01/12/2020 |[Maximum Depth of Binary Tree](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/569/week-1-december-1st-december-7th/3551/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/December%20Challenge/Maximum%20Depth%20of%20Binary%20Tree.java)|
-| 02/12/2020 |[]()|[solution]()|
+| 02/12/2020 |[Linked List Random Node](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/569/week-1-december-1st-december-7th/3552/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/December%20Challenge/Linked%20List%20Random%20Node.py)|
 | 03/12/2020 |[]()|[solution]()|
 | 04/12/2020 |[]()|[solution]()|
 | 05/12/2020 |[]()|[solution]()|
