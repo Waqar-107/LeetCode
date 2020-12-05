@@ -114,7 +114,7 @@
 | 01/12/2020 |[Maximum Depth of Binary Tree](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/569/week-1-december-1st-december-7th/3551/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/December%20Challenge/Maximum%20Depth%20of%20Binary%20Tree.java)|
 | 02/12/2020 |[Linked List Random Node](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/569/week-1-december-1st-december-7th/3552/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/December%20Challenge/Linked%20List%20Random%20Node.py)|
 | 03/12/2020 |[Increasing Order Search Tree](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/569/week-1-december-1st-december-7th/3553/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/December%20Challenge/Increasing%20Order%20Search%20Tree.py)|
-| 04/12/2020 |[]()|[solution]()|
+| 04/12/2020 |[The kth Factor of n](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/569/week-1-december-1st-december-7th/3554/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/December%20Challenge/The%20kth%20Factor%20of%20n.py)|
 | 05/12/2020 |[]()|[solution]()|
 | 06/12/2020 |[]()|[solution]()|
 | 07/12/2020 |[]()|[solution]()|
