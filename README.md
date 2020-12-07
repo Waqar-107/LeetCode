@@ -117,7 +117,7 @@
 | 04/12/2020 |[The kth Factor of n](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/569/week-1-december-1st-december-7th/3554/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/December%20Challenge/The%20kth%20Factor%20of%20n.py)|
 | 05/12/2020 |[Can Place Flowers](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/569/week-1-december-1st-december-7th/3555/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/December%20Challenge/Can%20Place%20Flowers.py)|
 | 06/12/2020 |[Populating Next Right Pointers in Each Node II.py](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/569/week-1-december-1st-december-7th/3556/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/December%20Challenge/Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20II.py)|
-| 07/12/2020 |[]()|[solution]()|
+| 07/12/2020 |[Spiral Matrix II](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/569/week-1-december-1st-december-7th/3557/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/December%20Challenge/Spiral%20Matrix%20II.py)|
 | 08/12/2020 |[]()|[solution]()|
 | 09/12/2020 |[]()|[solution]()|
 | 10/12/2020 |[]()|[solution]()|
