@@ -118,6 +118,6 @@
 | 05/12/2020 |[Can Place Flowers](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/569/week-1-december-1st-december-7th/3555/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/December%20Challenge/Can%20Place%20Flowers.py)|
 | 06/12/2020 |[Populating Next Right Pointers in Each Node II.py](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/569/week-1-december-1st-december-7th/3556/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/December%20Challenge/Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20II.py)|
 | 07/12/2020 |[Spiral Matrix II](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/569/week-1-december-1st-december-7th/3557/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/December%20Challenge/Spiral%20Matrix%20II.py)|
-| 08/12/2020 |[]()|[solution]()|
+| 08/12/2020 |[Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/570/week-2-december-8th-december-14th/3559/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/December%20Challenge/Pairs%20of%20Songs%20With%20Total%20Durations%20Divisible%20by%2060.py)|
 | 09/12/2020 |[]()|[solution]()|
 | 10/12/2020 |[]()|[solution]()|
