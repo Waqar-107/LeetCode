@@ -121,3 +121,24 @@
 | 08/12/2020 |[Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/570/week-2-december-8th-december-14th/3559/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/December%20Challenge/Pairs%20of%20Songs%20With%20Total%20Durations%20Divisible%20by%2060.py)|
 | 09/12/2020 |[]()|[solution]()|
 | 10/12/2020 |[]()|[solution]()|
+| 11/12/2020 |[Remove Duplicates from Sorted Array II](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/570/week-2-december-8th-december-14th/3562/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/December%20Challenge/Remove%20Duplicates%20from%20Sorted%20Array%20II.py)|
+| 12/12/2020 |[]()|[solution]()|
+| 13/12/2020 |[]()|[solution]()|
+| 14/12/2020 |[]()|[solution]()|
+| 15/12/2020 |[]()|[solution]()|
+| 16/12/2020 |[]()|[solution]()|
+| 17/12/2020 |[]()|[solution]()|
+| 18/12/2020 |[]()|[solution]()|
+| 19/12/2020 |[]()|[solution]()|
+| 20/12/2020 |[]()|[solution]()|
+| 21/12/2020 |[]()|[solution]()|
+| 22/12/2020 |[]()|[solution]()|
+| 23/12/2020 |[]()|[solution]()|
+| 24/12/2020 |[]()|[solution]()|
+| 25/12/2020 |[]()|[solution]()|
+| 26/12/2020 |[]()|[solution]()|
+| 27/12/2020 |[]()|[solution]()|
+| 28/12/2020 |[]()|[solution]()|
+| 29/12/2020 |[]()|[solution]()|
+| 30/12/2020 |[]()|[solution]()|
+| 31/12/2020 |[]()|[solution]()|
