@@ -120,7 +120,7 @@
 | 07/12/2020 |[Spiral Matrix II](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/569/week-1-december-1st-december-7th/3557/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/December%20Challenge/Spiral%20Matrix%20II.py)|
 | 08/12/2020 |[Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/570/week-2-december-8th-december-14th/3559/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/December%20Challenge/Pairs%20of%20Songs%20With%20Total%20Durations%20Divisible%20by%2060.py)|
 | 09/12/2020 |[]()|[solution]()|
-| 10/12/2020 |[]()|[solution]()|
+| 10/12/2020 |[Valid Mountain Array](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/570/week-2-december-8th-december-14th/3561/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/December%20Challenge/Valid%20Mountain%20Array.py)|
 | 11/12/2020 |[Remove Duplicates from Sorted Array II](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/570/week-2-december-8th-december-14th/3562/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/December%20Challenge/Remove%20Duplicates%20from%20Sorted%20Array%20II.py)|
 | 12/12/2020 |[]()|[solution]()|
 | 13/12/2020 |[]()|[solution]()|
