@@ -122,7 +122,7 @@
 | 09/12/2020 |[]()|[solution]()|
 | 10/12/2020 |[Valid Mountain Array](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/570/week-2-december-8th-december-14th/3561/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/December%20Challenge/Valid%20Mountain%20Array.py)|
 | 11/12/2020 |[Remove Duplicates from Sorted Array II](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/570/week-2-december-8th-december-14th/3562/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/December%20Challenge/Remove%20Duplicates%20from%20Sorted%20Array%20II.py)|
-| 12/12/2020 |[]()|[solution]()|
+| 12/12/2020 |[Smallest Subtree with all the Deepest Nodes](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/570/week-2-december-8th-december-14th/3563/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/December%20Challenge/Smallest%20Subtree%20with%20all%20the%20Deepest%20Nodes.py)|
 | 13/12/2020 |[]()|[solution]()|
 | 14/12/2020 |[]()|[solution]()|
 | 15/12/2020 |[]()|[solution]()|
