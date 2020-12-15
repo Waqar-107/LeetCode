@@ -125,7 +125,7 @@
 | 12/12/2020 |[Smallest Subtree with all the Deepest Nodes](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/570/week-2-december-8th-december-14th/3563/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/December%20Challenge/Smallest%20Subtree%20with%20all%20the%20Deepest%20Nodes.py)|
 | 13/12/2020 |[Burst Balloons](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/570/week-2-december-8th-december-14th/3564/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/December%20Challenge/Burst%20Balloons.py)|
 | 14/12/2020 |[]()|[solution]()|
-| 15/12/2020 |[]()|[solution]()|
+| 15/12/2020 |[Squares of a Sorted Array](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/571/week-3-december-15th-december-21st/3567/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/December%20Challenge/Squares%20of%20a%20Sorted%20Array.py)|
 | 16/12/2020 |[]()|[solution]()|
 | 17/12/2020 |[]()|[solution]()|
 | 18/12/2020 |[]()|[solution]()|
