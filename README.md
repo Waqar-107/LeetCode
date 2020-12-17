@@ -127,7 +127,7 @@
 | 14/12/2020 |[]()|[solution]()|
 | 15/12/2020 |[Squares of a Sorted Array](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/571/week-3-december-15th-december-21st/3567/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/December%20Challenge/Squares%20of%20a%20Sorted%20Array.py)|
 | 16/12/2020 |[Validate Binary Search Tree](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/571/week-3-december-15th-december-21st/3568/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/December%20Challenge/Validate%20Binary%20Search%20Tree.py)|
-| 17/12/2020 |[]()|[solution]()|
+| 17/12/2020 |[4Sum II](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/571/week-3-december-15th-december-21st/3569/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/December%20Challenge/4Sum%20II.py)|
 | 18/12/2020 |[]()|[solution]()|
 | 19/12/2020 |[]()|[solution]()|
 | 20/12/2020 |[]()|[solution]()|
