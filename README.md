@@ -132,7 +132,7 @@
 | 19/12/2020 |[]()|[solution]()|
 | 20/12/2020 |[]()|[solution]()|
 | 21/12/2020 |[]()|[solution]()|
-| 22/12/2020 |[]()|[solution]()|
+| 22/12/2020 |[Balanced Binary Tree](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/572/week-4-december-22nd-december-28th/3577/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/December%20Challenge/Balanced%20Binary%20Tree.py)|
 | 23/12/2020 |[]()|[solution]()|
 | 24/12/2020 |[]()|[solution]()|
 | 25/12/2020 |[]()|[solution]()|
