@@ -133,7 +133,7 @@
 | 20/12/2020 |[]()|[solution]()|
 | 21/12/2020 |[]()|[solution]()|
 | 22/12/2020 |[Balanced Binary Tree](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/572/week-4-december-22nd-december-28th/3577/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/December%20Challenge/Balanced%20Binary%20Tree.py)|
-| 23/12/2020 |[]()|[solution]()|
+| 23/12/2020 |[Next Greater Element III](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/572/week-4-december-22nd-december-28th/3578/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/December%20Challenge/Next%20Greater%20Element%20III.py)|
 | 24/12/2020 |[Swap Nodes in Pairs](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/572/week-4-december-22nd-december-28th/3579/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/December%20Challenge/Swap%20Nodes%20in%20Pairs.py)|
 | 25/12/2020 |[]()|[solution]()|
 | 26/12/2020 |[]()|[solution]()|
