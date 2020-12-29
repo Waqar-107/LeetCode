@@ -138,7 +138,7 @@
 | 25/12/2020 |[Diagonal Traverse](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/572/week-4-december-22nd-december-28th/3580/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/December%20Challenge/Diagonal%20Traverse.py)|
 | 26/12/2020 |[Decode Ways](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/572/week-4-december-22nd-december-28th/3581/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/December%20Challenge/Decode%20Ways.py)|
 | 27/12/2020 |[Jump Game IV](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/572/week-4-december-22nd-december-28th/3582/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/December%20Challenge/Jump%20Game%20IV.py)|
-| 28/12/2020 |[]()|[solution]()|
+| 28/12/2020 |[Reach a Number](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/572/week-4-december-22nd-december-28th/3583/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/December%20Challenge/Reach%20a%20Number.py)|
 | 29/12/2020 |[]()|[solution]()|
 | 30/12/2020 |[]()|[solution]()|
 | 31/12/2020 |[]()|[solution]()|
