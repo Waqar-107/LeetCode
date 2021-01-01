@@ -146,7 +146,7 @@
 ## January, 2021 Challenge
 | Date       | problem-link | solution |
 |------------|--------------|----------|
-| 01/01/2021 |[]()|[solution]()|
+| 01/01/2021 |[Check Array Formation Through Concatenation](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/579/week-1-january-1st-january-7th/3589/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/January%202021%20Challenge/Check%20Array%20Formation%20Through%20Concatenation.py)|
 | 02/01/2021 |[]()|[solution]()|
 | 03/01/2021 |[]()|[solution]()|
 | 04/01/2021 |[]()|[solution]()|
