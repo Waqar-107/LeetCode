@@ -1,6 +1,6 @@
 # LeetCode
 
-## September Challenge
+## September, 2020 Challenge
 | Date       | problem-link | solution |
 |------------|--------------|----------|
 | 01/09/2020 |[Largest Time for Given Digits](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/554/week-1-september-1st-september-7th/3445/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/September%20Challenge/Largest%20Time%20for%20Given%20Digits.py)|
@@ -35,7 +35,7 @@
 | 30/09/2020 |[First Missing Positive](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/558/week-5-september-29th-september-30th/3478/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/September%20Challenge/First%20Missing%20Positive.py)|
 
 
-## October Challenge
+## October, 2020 Challenge
 
 | Date       | problem-link | solution |
 |------------|--------------|----------|
@@ -72,7 +72,7 @@
 | 31/10/2020 |[Recover Binary Search Tree](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/563/week-5-october-29th-october-31st/3514/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/October%20Challenge/Recover%20Binary%20Search%20Tree.py)|
 
 
-## November Challenge
+## November, 2020 Challenge
 
 | Date       | problem-link | solution |
 |------------|--------------|----------|
@@ -108,7 +108,7 @@
 | 30/11/2020 |[]()|[solution]()|
 
 
-## December Challenge
+## December 2020, Challenge
 | Date       | problem-link | solution |
 |------------|--------------|----------|
 | 01/12/2020 |[Maximum Depth of Binary Tree](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/569/week-1-december-1st-december-7th/3551/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/December%20Challenge/Maximum%20Depth%20of%20Binary%20Tree.java)|
@@ -142,3 +142,38 @@
 | 29/12/2020 |[]()|[solution]()|
 | 30/12/2020 |[Game of Life](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/573/week-5-december-29th-december-31st/3586/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/December%20Challenge/Game%20of%20Life.py)|
 | 31/12/2020 |[Largest Rectangle in Histogram](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/573/week-5-december-29th-december-31st/3587/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/December%20Challenge/Largest%20Rectangle%20in%20Histogram.cpp)|
+
+## January, 2021 Challenge
+| Date       | problem-link | solution |
+|------------|--------------|----------|
+| 01/01/2021 |[]()|[solution]()|
+| 02/01/2021 |[]()|[solution]()|
+| 03/01/2021 |[]()|[solution]()|
+| 04/01/2021 |[]()|[solution]()|
+| 05/01/2021 |[]()|[solution]()|
+| 06/01/2021 |[]()|[solution]()|
+| 07/01/2021 |[]()|[solution]()|
+| 08/01/2021 |[]()|[solution]()|
+| 09/01/2021 |[]()|[solution]()|
+| 10/01/2021 |[]()|[solution]()|
+| 11/01/2021 |[]()|[solution]()|
+| 12/01/2021 |[]()|[solution]()|
+| 13/01/2021 |[]()|[solution]()|
+| 14/01/2021 |[]()|[solution]()|
+| 15/01/2021 |[]()|[solution]()|
+| 16/01/2021 |[]()|[solution]()|
+| 17/01/2021 |[]()|[solution]()|
+| 18/01/2021 |[]()|[solution]()|
+| 19/01/2021 |[]()|[solution]()|
+| 20/01/2021 |[]()|[solution]()|
+| 21/01/2021 |[]()|[solution]()|
+| 22/01/2021 |[]()|[solution]()|
+| 23/01/2021 |[]()|[solution]()|
+| 24/01/2021 |[]()|[solution]()|
+| 25/01/2021 |[]()|[solution]()|
+| 26/01/2021 |[]()|[solution]()|
+| 27/01/2021 |[]()|[solution]()|
+| 28/01/2021 |[]()|[solution]()|
+| 29/01/2021 |[]()|[solution]()|
+| 30/01/2021 |[]()|[solution]()|
+| 31/01/2021 |[]()|[solution]()|
