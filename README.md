@@ -150,7 +150,7 @@
 | 02/01/2021 |[Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/579/week-1-january-1st-january-7th/3590/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/January%202021%20Challenge/Find%20a%20Corresponding%20Node%20of%20a%20Binary%20Tree%20in%20a%20Clone%20of%20That%20Tree.py)|
 | 03/01/2021 |[Beautiful Arrangement](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/579/week-1-january-1st-january-7th/3591/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/January%202021%20Challenge/Beautiful%20Arrangement.cpp)|
 | 04/01/2021 |[Merge Two Sorted Lists](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/579/week-1-january-1st-january-7th/3592/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/January%2C%202021%20Challenge/Merge%20Two%20Sorted%20Lists.py)|
-| 05/01/2021 |[]()|[solution]()|
+| 05/01/2021 |[Remove Duplicates from Sorted List II](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/579/week-1-january-1st-january-7th/3593/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/January%2C%202021%20Challenge/Remove%20Duplicates%20from%20Sorted%20List%20II.py)|
 | 06/01/2021 |[]()|[solution]()|
 | 07/01/2021 |[]()|[solution]()|
 | 08/01/2021 |[]()|[solution]()|
