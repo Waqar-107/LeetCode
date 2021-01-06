@@ -151,7 +151,7 @@
 | 03/01/2021 |[Beautiful Arrangement](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/579/week-1-january-1st-january-7th/3591/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/January%202021%20Challenge/Beautiful%20Arrangement.cpp)|
 | 04/01/2021 |[Merge Two Sorted Lists](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/579/week-1-january-1st-january-7th/3592/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/January%2C%202021%20Challenge/Merge%20Two%20Sorted%20Lists.py)|
 | 05/01/2021 |[Remove Duplicates from Sorted List II](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/579/week-1-january-1st-january-7th/3593/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/January%2C%202021%20Challenge/Remove%20Duplicates%20from%20Sorted%20List%20II.py)|
-| 06/01/2021 |[]()|[solution]()|
+| 06/01/2021 |[Kth Missing Positive Number](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/579/week-1-january-1st-january-7th/3594/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/January%2C%202021%20Challenge/Kth%20Missing%20Positive%20Number.py)|
 | 07/01/2021 |[]()|[solution]()|
 | 08/01/2021 |[]()|[solution]()|
 | 09/01/2021 |[]()|[solution]()|
