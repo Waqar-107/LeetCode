@@ -156,7 +156,7 @@
 | 08/01/2021 |[Check If Two String Arrays are Equivalent](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/580/week-2-january-8th-january-14th/3597/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/January%2C%202021%20Challenge/Check%20If%20Two%20String%20Arrays%20are%20Equivalent.py)|
 | 09/01/2021 |[Word Ladder](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/580/week-2-january-8th-january-14th/3598/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/January%2C%202021%20Challenge/Word%20Ladder.py)|
 | 10/01/2021 |[Create Sorted Array through Instructions](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/580/week-2-january-8th-january-14th/3599/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/January%2C%202021%20Challenge/Create%20Sorted%20Array%20through%20Instructions.py)|
-| 11/01/2021 |[]()|[solution]()|
+| 11/01/2021 |[Merge Sorted Array](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/580/week-2-january-8th-january-14th/3600/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/January%2C%202021%20Challenge/Merge%20Sorted%20Array.py)|
 | 12/01/2021 |[]()|[solution]()|
 | 13/01/2021 |[]()|[solution]()|
 | 14/01/2021 |[]()|[solution]()|
