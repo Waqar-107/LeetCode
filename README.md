@@ -158,7 +158,7 @@
 | 10/01/2021 |[Create Sorted Array through Instructions](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/580/week-2-january-8th-january-14th/3599/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/January%2C%202021%20Challenge/Create%20Sorted%20Array%20through%20Instructions.py)|
 | 11/01/2021 |[Merge Sorted Array](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/580/week-2-january-8th-january-14th/3600/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/January%2C%202021%20Challenge/Merge%20Sorted%20Array.py)|
 | 12/01/2021 |[Add Two Numbers](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/580/week-2-january-8th-january-14th/3601/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/January%2C%202021%20Challenge/Add%20Two%20Numbers.py)|
-| 13/01/2021 |[]()|[solution]()|
+| 13/01/2021 |[Boats to Save People](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/580/week-2-january-8th-january-14th/3602/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/January%2C%202021%20Challenge/Boats%20to%20Save%20People.py)|
 | 14/01/2021 |[]()|[solution]()|
 | 15/01/2021 |[]()|[solution]()|
 | 16/01/2021 |[]()|[solution]()|
