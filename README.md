@@ -162,7 +162,7 @@
 | 14/01/2021 |[Minimum Operations to Reduce X to Zero](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/580/week-2-january-8th-january-14th/3603/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/January%2C%202021%20Challenge/Minimum%20Operations%20to%20Reduce%20X%20to%20Zero.py)|
 | 15/01/2021 |[Get Maximum in Generated Array](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/581/week-3-january-15th-january-21st/3605/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/January%2C%202021%20Challenge/Get%20Maximum%20in%20Generated%20Array.py)|
 | 16/01/2021 |[Kth Largest Element in an Array](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/581/week-3-january-15th-january-21st/3606/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/January%2C%202021%20Challenge/Kth%20Largest%20Element%20in%20an%20Array.py)|
-| 17/01/2021 |[]()|[solution]()|
+| 17/01/2021 |[Count Sorted Vowel Strings](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/581/week-3-january-15th-january-21st/3607/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/January%2C%202021%20Challenge/Count%20Sorted%20Vowel%20Strings.py)|
 | 18/01/2021 |[]()|[solution]()|
 | 19/01/2021 |[]()|[solution]()|
 | 20/01/2021 |[]()|[solution]()|
