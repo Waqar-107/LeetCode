@@ -164,7 +164,7 @@
 | 16/01/2021 |[Kth Largest Element in an Array](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/581/week-3-january-15th-january-21st/3606/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/January%2C%202021%20Challenge/Kth%20Largest%20Element%20in%20an%20Array.py)|
 | 17/01/2021 |[Count Sorted Vowel Strings](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/581/week-3-january-15th-january-21st/3607/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/January%2C%202021%20Challenge/Count%20Sorted%20Vowel%20Strings.py)|
 | 18/01/2021 |[Max Number of K-Sum Pairs](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/581/week-3-january-15th-january-21st/3608/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/January%2C%202021%20Challenge/Max%20Number%20of%20K-Sum%20Pairs.py)|
-| 19/01/2021 |[]()|[solution]()|
+| 19/01/2021 |[Longest Palindromic Substring](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/581/week-3-january-15th-january-21st/3609/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/January%2C%202021%20Challenge/Longest%20Palindromic%20Substring.py)|
 | 20/01/2021 |[]()|[solution]()|
 | 21/01/2021 |[]()|[solution]()|
 | 22/01/2021 |[]()|[solution]()|
