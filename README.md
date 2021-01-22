@@ -167,7 +167,7 @@
 | 19/01/2021 |[Longest Palindromic Substring](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/581/week-3-january-15th-january-21st/3609/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/January%2C%202021%20Challenge/Longest%20Palindromic%20Substring.py)|
 | 20/01/2021 |[Valid Parentheses](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/581/week-3-january-15th-january-21st/3610/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/January%2C%202021%20Challenge/Valid%20Parentheses.cpp)|
 | 21/01/2021 |[Find the Most Competitive Subsequence](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/581/week-3-january-15th-january-21st/3611/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/January%2C%202021%20Challenge/Find%20the%20Most%20Competitive%20Subsequence.py)|
-| 22/01/2021 |[]()|[solution]()|
+| 22/01/2021 |[Determine if Two Strings Are Close](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/582/week-4-january-22nd-january-28th/3613/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/January%2C%202021%20Challenge/Determine%20if%20Two%20Strings%20Are%20Close.py)|
 | 23/01/2021 |[]()|[solution]()|
 | 24/01/2021 |[]()|[solution]()|
 | 25/01/2021 |[]()|[solution]()|
