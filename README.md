@@ -169,7 +169,7 @@
 | 21/01/2021 |[Find the Most Competitive Subsequence](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/581/week-3-january-15th-january-21st/3611/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/January%2C%202021%20Challenge/Find%20the%20Most%20Competitive%20Subsequence.py)|
 | 22/01/2021 |[Determine if Two Strings Are Close](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/582/week-4-january-22nd-january-28th/3613/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/January%2C%202021%20Challenge/Determine%20if%20Two%20Strings%20Are%20Close.py)|
 | 23/01/2021 |[Sort the Matrix Diagonally](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/582/week-4-january-22nd-january-28th/3614/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/January%2C%202021%20Challenge/Sort%20the%20Matrix%20Diagonally.py)|
-| 24/01/2021 |[]()|[solution]()|
+| 24/01/2021 |[Merge k Sorted Lists](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/582/week-4-january-22nd-january-28th/3615/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/January%2C%202021%20Challenge/Merge%20k%20Sorted%20Lists.py)|
 | 25/01/2021 |[]()|[solution]()|
 | 26/01/2021 |[]()|[solution]()|
 | 27/01/2021 |[]()|[solution]()|
