@@ -174,6 +174,6 @@
 | 26/01/2021 |[]()|[solution]()|
 | 27/01/2021 |[]()|[solution]()|
 | 28/01/2021 |[]()|[solution]()|
-| 29/01/2021 |[]()|[solution]()|
+| 29/01/2021 |[Vertical Order Traversal of a Binary Tree](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/583/week-5-january-29th-january-31st/3621/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/January%2C%202021%20Challenge/Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree.py)|
 | 30/01/2021 |[]()|[solution]()|
 | 31/01/2021 |[]()|[solution]()|
