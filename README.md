@@ -177,3 +177,8 @@
 | 29/01/2021 |[Vertical Order Traversal of a Binary Tree](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/583/week-5-january-29th-january-31st/3621/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/January%2C%202021%20Challenge/Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree.py)|
 | 30/01/2021 |[]()|[solution]()|
 | 31/01/2021 |[]()|[solution]()|
+
+## February, 2021 Challenge
+| Date       | problem-link | solution |
+|------------|--------------|----------|
+| 01/02/2021 |[Number of 1 Bits](https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/584/week-1-february-1st-february-7th/3625/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/February%2C%202021%20Challenge/Number%20of%201%20Bits.py)|
