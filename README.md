@@ -186,7 +186,7 @@
 | 03/02/2021 |[Linked List Cycle](https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/584/week-1-february-1st-february-7th/3627/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/February%2C%202021%20Challenge/Linked%20List%20Cycle.py)|
 | 04/02/2021 |[]()|[solution]()|
 | 05/02/2021 |[]()|[solution]()|
-| 06/02/2021 |[]()|[solution]()|
+| 06/02/2021 |[Binary Tree Right Side View](https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/584/week-1-february-1st-february-7th/3630/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/February%2C%202021%20Challenge/Binary%20Tree%20Right%20Side%20View.py)|
 | 07/02/2021 |[]()|[solution]()|
 | 08/02/2021 |[]()|[solution]()|
 | 09/02/2021 |[]()|[solution]()|
