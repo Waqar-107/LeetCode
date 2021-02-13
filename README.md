@@ -193,7 +193,7 @@
 | 10/02/2021 |[Copy List with Random Pointer](https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/585/week-2-february-8th-february-14th/3635/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/February%2C%202021%20Challenge/Copy%20List%20with%20Random%20Pointer.py)|
 | 11/02/2021 |[Valid Anagram](https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/585/week-2-february-8th-february-14th/3636/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/February%2C%202021%20Challenge/Valid%20Anagram.py)|
 | 12/02/2021 |[Number of Steps to Reduce a Number to Zero](https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/585/week-2-february-8th-february-14th/3637/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/February%2C%202021%20Challenge/Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.py)|
-| 13/02/2021 |[]()|[solution]()|
+| 13/02/2021 |[Shortest Path in Binary Matrix](https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/585/week-2-february-8th-february-14th/3638/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/February%2C%202021%20Challenge/Shortest%20Path%20in%20Binary%20Matrix.py)|
 | 14/02/2021 |[]()|[solution]()|
 | 15/02/2021 |[]()|[solution]()|
 | 16/02/2021 |[]()|[solution]()|
