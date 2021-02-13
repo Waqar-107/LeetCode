@@ -1,8 +1,10 @@
 # LeetCode
 
-|Year|Jan|Feb|March|April}May|June|July|Aug|Sept|Oct|Nov|Dec|
+|Year|Jan|Feb|March|April|May|June|July|Aug|Sept|Oct|Nov|Dec|
+|----|---|---|-----|-----|---|----|----|---|----|---|---|---|
 |2020|||||||||30/30|31/31|29/30|27/31|
 |2021|25/31|12|||||||||||
+
 
 ## September, 2020 Challenge
 | Date       | problem-link | solution |
