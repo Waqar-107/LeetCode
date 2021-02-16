@@ -3,7 +3,7 @@
 |Year|Jan|Feb|March|April|May|June|July|Aug|Sept|Oct|Nov|Dec|
 |----|---|---|-----|-----|---|----|----|---|----|---|---|---|
 |2020|||||||||30/30|31/31|29/30|27/31|
-|2021|25/31|14|||||||||||
+|2021|25/31|16|||||||||||
 
 
 ## September, 2020 Challenge
@@ -202,7 +202,7 @@
 | 13/02/2021 |[Shortest Path in Binary Matrix](https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/585/week-2-february-8th-february-14th/3638/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/February%2C%202021%20Challenge/Shortest%20Path%20in%20Binary%20Matrix.py)|
 | 14/02/2021 |[Is Graph Bipartite?](https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/585/week-2-february-8th-february-14th/3639/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/February%2C%202021%20Challenge/Is%20Graph%20Bipartite%3F.py)|
 | 15/02/2021 |[The K Weakest Rows in a Matrix](https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/586/week-3-february-15th-february-21st/3641/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/February%2C%202021%20Challenge/The%20K%20Weakest%20Rows%20in%20a%20Matrix.py)|
-| 16/02/2021 |[]()|[solution]()|
+| 16/02/2021 |[Letter Case Permutation](https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/586/week-3-february-15th-february-21st/3642/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/February%2C%202021%20Challenge/Letter%20Case%20Permutation.py)|
 | 17/02/2021 |[]()|[solution]()|
 | 18/02/2021 |[]()|[solution]()|
 | 19/02/2021 |[]()|[solution]()|
