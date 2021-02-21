@@ -3,7 +3,7 @@
 |Year|Jan|Feb|March|April|May|June|July|Aug|Sept|Oct|Nov|Dec|
 |----|---|---|-----|-----|---|----|----|---|----|---|---|---|
 |2020|||||||||30/30|31/31|29/30|27/31|
-|2021|25/31|20/28|||||||||||
+|2021|25/31|21/28|||||||||||
 
 
 ## September, 2020 Challenge
@@ -207,7 +207,7 @@
 | 18/02/2021 |[Arithmetic Slices](https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/586/week-3-february-15th-february-21st/3644/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/February%2C%202021%20Challenge/Arithmetic%20Slices.py)|
 | 19/02/2021 |[Minimum Remove to Make Valid Parentheses](https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/586/week-3-february-15th-february-21st/3645/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/February%2C%202021%20Challenge/Minimum%20Remove%20to%20Make%20Valid%20Parentheses.py)|
 | 20/02/2021 |[Roman to Integer](https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/586/week-3-february-15th-february-21st/3646/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/February%2C%202021%20Challenge/Roman%20to%20Integer.py)|
-| 21/02/2021 |[]()|[solution]()|
+| 21/02/2021 |[Broken Calculator](https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/586/week-3-february-15th-february-21st/3647/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/February%2C%202021%20Challenge/Broken%20Calculator.py)|
 | 22/02/2021 |[]()|[solution]()|
 | 23/02/2021 |[]()|[solution]()|
 | 24/02/2021 |[]()|[solution]()|
