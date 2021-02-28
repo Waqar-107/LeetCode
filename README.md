@@ -3,7 +3,7 @@
 |Year|Jan|Feb|March|April|May|June|July|Aug|Sept|Oct|Nov|Dec|
 |----|---|---|-----|-----|---|----|----|---|----|---|---|---|
 |2020|||||||||30/30|31/31|29/30|27/31|
-|2021|25/31|27/28|||||||||||
+|2021|25/31|28/28|||||||||||
 
 
 ## September, 2020 Challenge
@@ -214,5 +214,5 @@
 | 25/02/2021 |[Shortest Unsorted Continuous Subarray](https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/587/week-4-february-22nd-february-28th/3652/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/February%2C%202021%20Challenge/Shortest%20Unsorted%20Continuous%20Subarray.py)|
 | 26/02/2021 |[Validate Stack Sequences](https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/587/week-4-february-22nd-february-28th/3653/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/February%2C%202021%20Challenge/Validate%20Stack%20Sequences.py)|
 | 27/02/2021 |[Divide Two Integers](https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/587/week-4-february-22nd-february-28th/3654/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/February%2C%202021%20Challenge/Divide%20Two%20Integers.py)|
-| 28/02/2021 |[]()|[solution]()|
+| 28/02/2021 |[Maximum Frequency Stack](https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/587/week-4-february-22nd-february-28th/3655/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/February%2C%202021%20Challenge/Maximum%20Frequency%20Stack.cpp)|
 
