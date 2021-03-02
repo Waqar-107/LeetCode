@@ -3,7 +3,7 @@
 |Year|Jan|Feb|March|April|May|June|July|Aug|Sept|Oct|Nov|Dec|
 |----|---|---|-----|-----|---|----|----|---|----|---|---|---|
 |2020|||||||||30/30|31/31|29/30|27/31|
-|2021|25/31|28/28|1/31||||||||||
+|2021|25/31|28/28|2/31||||||||||
 
 
 ## September, 2020 Challenge
@@ -221,7 +221,7 @@
 | Date       | problem-link | solution |
 |------------|--------------|----------|
 | 01/03/2021 |[Distribute Candies](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/588/week-1-march-1st-march-7th/3657/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/March%2C%202021%20Challenge/Distribute%20Candies.py)|
-| 02/03/2021 |[]()|[solution]()|
+| 02/03/2021 |[Set Mismatch](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/588/week-1-march-1st-march-7th/3658/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/March%2C%202021%20Challenge/Set%20Mismatch.py)|
 | 03/03/2021 |[]()|[solution]()|
 | 04/03/2021 |[]()|[solution]()|
 | 05/03/2021 |[]()|[solution]()|
