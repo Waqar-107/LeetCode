@@ -3,7 +3,7 @@
 |Year|Jan|Feb|March|April|May|June|July|Aug|Sept|Oct|Nov|Dec|
 |----|---|---|-----|-----|---|----|----|---|----|---|---|---|
 |2020|||||||||30/30|31/31|29/30|27/31|
-|2021|25/31|28/28|4/31||||||||||
+|2021|25/31|28/28|5/31||||||||||
 
 
 ## September, 2020 Challenge
@@ -224,7 +224,7 @@
 | 02/03/2021 |[Set Mismatch](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/588/week-1-march-1st-march-7th/3658/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/March%2C%202021%20Challenge/Set%20Mismatch.py)|
 | 03/03/2021 |[Missing Number](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/588/week-1-march-1st-march-7th/3659/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/March%2C%202021%20Challenge/Missing%20Number.py)|
 | 04/03/2021 |[Intersection of Two Linked Lists](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/588/week-1-march-1st-march-7th/3660/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/March%2C%202021%20Challenge/Intersection%20of%20Two%20Linked%20Lists.py)|
-| 05/03/2021 |[]()|[solution]()|
+| 05/03/2021 |[Average of Levels in Binary Tree](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/588/week-1-march-1st-march-7th/3661/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/March%2C%202021%20Challenge/Average%20of%20Levels%20in%20Binary%20Tree.py)|
 | 06/03/2021 |[]()|[solution]()|
 | 07/03/2021 |[]()|[solution]()|
 | 08/03/2021 |[]()|[solution]()|
