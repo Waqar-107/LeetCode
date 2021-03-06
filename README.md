@@ -12,8 +12,7 @@
 | 01/08/2020 |[Detect Capital](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3409/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/August%2C%202020%20Challenge/Detect%20Capital.cs)|
 | 02/08/2020 |[Design HashSet](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3410/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/August%2C%202020%20Challenge/Design%20HashSet.cs)|
 | 03/08/2020 |[Valid Palindrome](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3411/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/August%2C%202020%20Challenge/Valid%20Palindrome.cs)|
-| 04/08/2020 |[Power of Four](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3412/)|[solution]
-(https://github.com/Waqar-107/LeetCode/blob/master/August%2C%202020%20Challenge/Power%20of%20Four.cs)|
+| 04/08/2020 |[Power of Four](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3412/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/August%2C%202020%20Challenge/Power%20of%20Four.cs)|
 | 05/08/2020 |[]()|[solution]()|
 | 06/08/2020 |[Find All Duplicates in an Array](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3414/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/August%2C%202020%20Challenge/Find%20All%20Duplicates%20in%20an%20Array.cs)|
 | 07/08/2020 |[]()|[solution]()|
