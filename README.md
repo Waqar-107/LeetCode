@@ -10,7 +10,7 @@
 | Date       | problem-link | solution |
 |------------|--------------|----------|
 | 01/08/2020 |[Detect Capital](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3409/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/August%2C%202020%20Challenge/Detect%20Capital.cs)|
-| 02/08/2020 |[]()|[solution]()|
+| 02/08/2020 |[Design HashSet](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3410/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/August%2C%202020%20Challenge/Design%20HashSet.cs)|
 | 03/08/2020 |[]()|[solution]()|
 | 04/08/2020 |[]()|[solution]()|
 | 05/08/2020 |[]()|[solution]()|
