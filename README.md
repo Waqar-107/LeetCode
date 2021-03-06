@@ -261,7 +261,7 @@
 | 03/03/2021 |[Missing Number](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/588/week-1-march-1st-march-7th/3659/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/March%2C%202021%20Challenge/Missing%20Number.py)|
 | 04/03/2021 |[Intersection of Two Linked Lists](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/588/week-1-march-1st-march-7th/3660/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/March%2C%202021%20Challenge/Intersection%20of%20Two%20Linked%20Lists.py)|
 | 05/03/2021 |[Average of Levels in Binary Tree](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/588/week-1-march-1st-march-7th/3661/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/March%2C%202021%20Challenge/Average%20of%20Levels%20in%20Binary%20Tree.py)|
-| 06/03/2021 |[]()|[solution]()|
+| 06/03/2021 |[Short Encoding of Words](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/588/week-1-march-1st-march-7th/3662/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/March%2C%202021%20Challenge/Short%20Encoding%20of%20Words.py)|
 | 07/03/2021 |[]()|[solution]()|
 | 08/03/2021 |[]()|[solution]()|
 | 09/03/2021 |[]()|[solution]()|
