@@ -6,6 +6,42 @@
 |2021|25/31|28/28|5/31||||||||||
 
 
+## August, 2020 Challenge
+| Date       | problem-link | solution |
+|------------|--------------|----------|
+| 01/08/2020 |[Detect Capital](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3409/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/August%2C%202020%20Challenge/Detect%20Capital.cs)|
+| 02/08/2020 |[]()|[solution]()|
+| 03/08/2020 |[]()|[solution]()|
+| 04/08/2020 |[]()|[solution]()|
+| 05/08/2020 |[]()|[solution]()|
+| 06/08/2020 |[]()|[solution]()|
+| 07/08/2020 |[]()|[solution]()|
+| 08/08/2020 |[]()|[solution]()|
+| 09/08/2020 |[]()|[solution]()|
+| 10/08/2020 |[]()|[solution]()|
+| 11/08/2020 |[]()|[solution]()|
+| 12/08/2020 |[]()|[solution]()|
+| 13/08/2020 |[]()|[solution]()|
+| 14/08/2020 |[]()|[solution]()|
+| 15/08/2020 |[]()|[solution]()|
+| 16/08/2020 |[]()|[solution]()|
+| 17/08/2020 |[]()|[solution]()|
+| 18/08/2020 |[]()|[solution]()|
+| 19/08/2020 |[]()|[solution]()|
+| 20/08/2020 |[]()|[solution]()|
+| 21/08/2020 |[]()|[solution]()|
+| 22/08/2020 |[]()|[solution]()|
+| 23/08/2020 |[]()|[solution]()|
+| 24/08/2020 |[]()|[solution]()|
+| 25/08/2020 |[]()|[solution]()|
+| 26/08/2020 |[]()|[solution]()|
+| 27/08/2020 |[]()|[solution]()|
+| 28/08/2020 |[]()|[solution]()|
+| 29/08/2020 |[]()|[solution]()|
+| 30/08/2020 |[]()|[solution]()|
+| 31/08/2020 |[]()|[solution]()|
+
+
 ## September, 2020 Challenge
 | Date       | problem-link | solution |
 |------------|--------------|----------|
