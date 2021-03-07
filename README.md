@@ -15,7 +15,7 @@
 | 04/08/2020 |[Power of Four](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3412/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/August%2C%202020%20Challenge/Power%20of%20Four.cs)|
 | 05/08/2020 |[]()|[solution]()|
 | 06/08/2020 |[Find All Duplicates in an Array](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3414/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/August%2C%202020%20Challenge/Find%20All%20Duplicates%20in%20an%20Array.cs)|
-| 07/08/2020 |[]()|[solution]()|
+| 07/08/2020 |[Vertical Order Traversal of a Binary Tree](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3415/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/August%2C%202020%20Challenge/Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree.cs)|
 | 08/08/2020 |[]()|[solution]()|
 | 09/08/2020 |[]()|[solution]()|
 | 10/08/2020 |[]()|[solution]()|
