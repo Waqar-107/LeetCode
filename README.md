@@ -21,7 +21,7 @@
 | 10/08/2020 |[]()|[solution]()|
 | 11/08/2020 |[]()|[solution]()|
 | 12/08/2020 |[]()|[solution]()|
-| 13/08/2020 |[]()|[solution]()|
+| 13/08/2020 |[Iterator for Combinatio](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3422/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/March%2C%202021%20Challenge/Iterator%20for%20Combination.cs)|
 | 14/08/2020 |[Longest Palindrome](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3423/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/August%2C%202020%20Challenge/Longest%20Palindrome.cs)|
 | 15/08/2020 |[]()|[solution]()|
 | 16/08/2020 |[]()|[solution]()|
