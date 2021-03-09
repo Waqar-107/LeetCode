@@ -34,7 +34,7 @@
 | 23/08/2020 |[]()|[solution]()|
 | 24/08/2020 |[]()|[solution]()|
 | 25/08/2020 |[]()|[solution]()|
-| 26/08/2020 |[]()|[solution]()|
+| 26/08/2020 |[Fizz Buzz](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/552/week-4-august-22nd-august-28th/3437/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/August%2C%202020%20Challenge/Fizz%20Buzz.cs)|
 | 27/08/2020 |[]()|[solution]()|
 | 28/08/2020 |[]()|[solution]()|
 | 29/08/2020 |[]()|[solution]()|
