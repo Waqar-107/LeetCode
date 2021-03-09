@@ -39,7 +39,7 @@
 | 28/08/2020 |[]()|[solution]()|
 | 29/08/2020 |[]()|[solution]()|
 | 30/08/2020 |[]()|[solution]()|
-| 31/08/2020 |[]()|[solution]()|
+| 31/08/2020 |[Delete Node in a BST](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/553/week-5-august-29th-august-31st/3443/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/August%2C%202020%20Challenge/Delete%20Node%20in%20a%20BST.cs)|
 
 
 ## September, 2020 Challenge
