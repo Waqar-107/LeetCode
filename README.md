@@ -28,7 +28,7 @@
 | 17/08/2020 |[]()|[solution]()|
 | 18/08/2020 |[]()|[solution]()|
 | 19/08/2020 |[]()|[solution]()|
-| 20/08/2020 |[]()|[solution]()|
+| 20/08/2020 |[Reorder List](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/551/week-3-august-15th-august-21st/3430/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/August%2C%202020%20Challenge/Reorder%20List.cs)|
 | 21/08/2020 |[Sort Array By Parity](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/551/week-3-august-15th-august-21st/3431/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/August%2C%202020%20Challenge/Sort%20Array%20By%20Parity.cs)|
 | 22/08/2020 |[]()|[solution]()|
 | 23/08/2020 |[]()|[solution]()|
