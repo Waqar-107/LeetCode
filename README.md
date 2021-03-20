@@ -268,7 +268,7 @@
 | 10/03/2021 |[Integer to Roman](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/589/week-2-march-8th-march-14th/3667/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/March%2C%202021%20Challenge/Integer%20to%20Roman.py)|
 | 11/03/2021 |[Coin Change](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/589/week-2-march-8th-march-14th/3668/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/March%2C%202021%20Challenge/Coin%20Change.cs)|
 | 12/03/2021 |[Check If a String Contains All Binary Codes of Size K](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/589/week-2-march-8th-march-14th/3669/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/March%2C%202021%20Challenge/Check%20If%20a%20String%20Contains%20All%20Binary%20Codes%20of%20Size%20K.py)|
-| 13/03/2021 |[]()|[solution]()|
+| 13/03/2021 |[Binary Trees With Factors](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/589/week-2-march-8th-march-14th/3670/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/March%2C%202021%20Challenge/Binary%20Trees%20With%20Factor.py)|
 | 14/03/2021 |[Swapping Nodes in a Linked List](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/589/week-2-march-8th-march-14th/3671/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/March%2C%202021%20Challenge/Swapping%20Nodes%20in%20a%20Linked%20List.py)|
 | 15/03/2021 |[Encode and Decode TinyURL](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/590/week-3-march-15th-march-21st/3673/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/March%2C%202021%20Challenge/Encode%20and%20Decode%20TinyURL.py)|
 | 16/03/2021 |[Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/590/week-3-march-15th-march-21st/3674/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/March%2C%202021%20Challenge/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee.py)|
@@ -276,7 +276,7 @@
 | 18/03/2021 |[Wiggle Subsequence](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/590/week-3-march-15th-march-21st/3676/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/March%2C%202021%20Challenge/Wiggle%20Subsequence.py)|
 | 19/03/2021 |[Keys and Rooms](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/590/week-3-march-15th-march-21st/3677/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/March%2C%202021%20Challenge/Keys%20and%20Rooms.py)|
 | 20/03/2021 |[Design Underground System](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/590/week-3-march-15th-march-21st/3678/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/March%2C%202021%20Challenge/Design%20Underground%20System.py)|
-| 21/03/2021 |[Binary Trees With Factors](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/589/week-2-march-8th-march-14th/3670/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/March%2C%202021%20Challenge/Binary%20Trees%20With%20Factor.py)|
+| 21/03/2021 |[]()|[solution]()|
 | 22/03/2021 |[]()|[solution]()|
 | 23/03/2021 |[]()|[solution]()|
 | 24/03/2021 |[]()|[solution]()|
