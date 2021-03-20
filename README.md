@@ -3,7 +3,7 @@
 |Year|Jan|Feb|March|April|May|June|July|Aug|Sept|Oct|Nov|Dec|
 |----|---|---|-----|-----|---|----|----|---|----|---|---|---|
 |2020|||||||||30/30|31/31|29/30|27/31|
-|2021|25/31|28/28|17/31||||||||||
+|2021|25/31|28/28|20/31||||||||||
 
 
 ## August, 2020 Challenge
@@ -276,7 +276,7 @@
 | 18/03/2021 |[Wiggle Subsequence](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/590/week-3-march-15th-march-21st/3676/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/March%2C%202021%20Challenge/Wiggle%20Subsequence.py)|
 | 19/03/2021 |[Keys and Rooms](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/590/week-3-march-15th-march-21st/3677/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/March%2C%202021%20Challenge/Keys%20and%20Rooms.py)|
 | 20/03/2021 |[Design Underground System](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/590/week-3-march-15th-march-21st/3678/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/March%2C%202021%20Challenge/Design%20Underground%20System.py)|
-| 21/03/2021 |[]()|[solution]()|
+| 21/03/2021 |[Binary Trees With Factors](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/589/week-2-march-8th-march-14th/3670/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/March%2C%202021%20Challenge/Binary%20Trees%20With%20Factor.py)|
 | 22/03/2021 |[]()|[solution]()|
 | 23/03/2021 |[]()|[solution]()|
 | 24/03/2021 |[]()|[solution]()|
