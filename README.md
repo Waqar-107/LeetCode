@@ -5,6 +5,76 @@
 |2020||||||||20/31|30/30|31/31|29/30|27/31|
 |2021|25/31|28/28|24/31||||||||||
 
+## June, 2020 Challenge
+| Date       | problem-link | solution |
+|------------|--------------|----------|
+| 01/06/2020 |[Invert Binary Tree](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/539/week-1-june-1st-june-7th/3347/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/June%2C%202020%20Challenge/Invert%20Binary%20Tree.cs)|
+| 02/06/2020 |[]()|[solution]()|
+| 03/06/2020 |[]()|[solution]()|
+| 04/06/2020 |[]()|[solution]()|
+| 05/06/2020 |[]()|[solution]()|
+| 06/06/2020 |[]()|[solution]()|
+| 07/06/2020 |[]()|[solution]()|
+| 08/06/2020 |[]()|[solution]()|
+| 09/06/2020 |[]()|[solution]()|
+| 10/06/2020 |[]()|[solution]()|
+| 11/06/2020 |[]()|[solution]()|
+| 12/06/2020 |[]()|[solution]()|
+| 13/06/2020 |[]()|[solution]()|
+| 14/06/2020 |[]()|[solution]()|
+| 15/06/2020 |[]()|[solution]()|
+| 16/06/2020 |[]()|[solution]()|
+| 17/06/2020 |[]()|[solution]()|
+| 18/06/2020 |[]()|[solution]()|
+| 19/06/2020 |[]()|[solution]()|
+| 20/06/2020 |[]()|[solution]()|
+| 21/06/2020 |[]()|[solution]()|
+| 22/06/2020 |[]()|[solution]()|
+| 23/06/2020 |[]()|[solution]()|
+| 24/06/2020 |[]()|[solution]()|
+| 25/06/2020 |[]()|[solution]()|
+| 26/06/2020 |[]()|[solution]()|
+| 27/06/2020 |[]()|[solution]()|
+| 28/06/2020 |[]()|[solution]()|
+| 29/06/2020 |[]()|[solution]()|
+| 30/06/2020 |[]()|[solution]()|
+
+
+## June, 2020 Challenge
+| Date       | problem-link | solution |
+|------------|--------------|----------|
+| 01/06/2020 |[]()|[solution]()|
+| 02/06/2020 |[]()|[solution]()|
+| 03/06/2020 |[]()|[solution]()|
+| 04/06/2020 |[]()|[solution]()|
+| 05/06/2020 |[]()|[solution]()|
+| 06/06/2020 |[]()|[solution]()|
+| 07/06/2020 |[]()|[solution]()|
+| 08/06/2020 |[]()|[solution]()|
+| 09/06/2020 |[]()|[solution]()|
+| 10/06/2020 |[]()|[solution]()|
+| 11/06/2020 |[]()|[solution]()|
+| 12/06/2020 |[]()|[solution]()|
+| 13/06/2020 |[]()|[solution]()|
+| 14/06/2020 |[]()|[solution]()|
+| 15/06/2020 |[]()|[solution]()|
+| 16/06/2020 |[]()|[solution]()|
+| 17/06/2020 |[]()|[solution]()|
+| 18/06/2020 |[]()|[solution]()|
+| 19/06/2020 |[]()|[solution]()|
+| 20/06/2020 |[]()|[solution]()|
+| 21/06/2020 |[]()|[solution]()|
+| 22/06/2020 |[]()|[solution]()|
+| 23/06/2020 |[]()|[solution]()|
+| 24/06/2020 |[]()|[solution]()|
+| 25/06/2020 |[]()|[solution]()|
+| 26/06/2020 |[]()|[solution]()|
+| 27/06/2020 |[]()|[solution]()|
+| 28/06/2020 |[]()|[solution]()|
+| 29/06/2020 |[]()|[solution]()|
+| 30/06/2020 |[]()|[solution]()|
+| 31/06/2020 |[]()|[solution]()|
+
 
 ## August, 2020 Challenge
 | Date       | problem-link | solution |
