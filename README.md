@@ -11,7 +11,7 @@
 | 01/06/2020 |[Invert Binary Tree](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/539/week-1-june-1st-june-7th/3347/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/June%2C%202020%20Challenge/Invert%20Binary%20Tree.cs)|
 | 02/06/2020 |[Delete Node in a Linked List](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/539/week-1-june-1st-june-7th/3348/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/June%2C%202020%20Challenge/Delete%20Node%20in%20a%20Linked%20List.cs)|
 | 03/06/2020 |[]()|[solution]()|
-| 04/06/2020 |[]()|[solution]()|
+| 04/06/2020 |[Reverse String](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/539/week-1-june-1st-june-7th/3350/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/June%2C%202020%20Challenge/Reverse%20String.py)|
 | 05/06/2020 |[]()|[solution]()|
 | 06/06/2020 |[]()|[solution]()|
 | 07/06/2020 |[]()|[solution]()|
