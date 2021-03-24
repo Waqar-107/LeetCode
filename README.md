@@ -3,7 +3,7 @@
 |Year|Jan|Feb|March|April|May|June|July|Aug|Sept|Oct|Nov|Dec|
 |----|---|---|-----|-----|---|----|----|---|----|---|---|---|
 |2020||||||||20/31|30/30|31/31|29/30|27/31|
-|2021|25/31|28/28|23/31||||||||||
+|2021|25/31|28/28|24/31||||||||||
 
 
 ## August, 2020 Challenge
@@ -279,7 +279,7 @@
 | 21/03/2021 |[Reordered Power of 2](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/590/week-3-march-15th-march-21st/3679/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/March%2C%202021%20Challenge/Reordered%20Power%20of%202.py)|
 | 22/03/2021 |[Vowel Spellchecker](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/591/week-4-march-22nd-march-28th/3681/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/March%2C%202021%20Challenge/Vowel%20Spellchecker.py)|
 | 23/03/2021 |[3Sum With Multiplicity](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/591/week-4-march-22nd-march-28th/3682/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/March%2C%202021%20Challenge/3Sum%20With%20Multiplicity.py)|
-| 24/03/2021 |[]()|[solution]()|
+| 24/03/2021 |[Advantage Shuffle](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/591/week-4-march-22nd-march-28th/3683/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/March%2C%202021%20Challenge/Advantage%20Shuffle.cpp)|
 | 25/03/2021 |[]()|[solution]()|
 | 26/03/2021 |[]()|[solution]()|
 | 27/03/2021 |[]()|[solution]()|
