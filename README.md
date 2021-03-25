@@ -14,7 +14,7 @@
 | 04/06/2020 |[Reverse String](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/539/week-1-june-1st-june-7th/3350/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/June%2C%202020%20Challenge/Reverse%20String.py)|
 | 05/06/2020 |[]()|[solution]()|
 | 06/06/2020 |[]()|[solution]()|
-| 07/06/2020 |[]()|[solution]()|
+| 07/06/2020 |[Coin Change 2](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/539/week-1-june-1st-june-7th/3353/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/June%2C%202020%20Challenge/Coin%20Change%202.py)|
 | 08/06/2020 |[]()|[solution]()|
 | 09/06/2020 |[]()|[solution]()|
 | 10/06/2020 |[]()|[solution]()|
