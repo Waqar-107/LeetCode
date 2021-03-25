@@ -15,7 +15,7 @@
 | 05/06/2020 |[]()|[solution]()|
 | 06/06/2020 |[]()|[solution]()|
 | 07/06/2020 |[Coin Change 2](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/539/week-1-june-1st-june-7th/3353/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/June%2C%202020%20Challenge/Coin%20Change%202.py)|
-| 08/06/2020 |[]()|[solution]()|
+| 08/06/2020 |[Power of Two](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3354/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/June%2C%202020%20Challenge/Power%20of%20Two.py)|
 | 09/06/2020 |[]()|[solution]()|
 | 10/06/2020 |[]()|[solution]()|
 | 11/06/2020 |[]()|[solution]()|
