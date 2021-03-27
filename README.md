@@ -22,8 +22,8 @@
 | 12/06/2020 |[]()|[solution]()|
 | 13/06/2020 |[]()|[solution]()|
 | 14/06/2020 |[]()|[solution]()|
-| 15/06/2020 |[]()|[solution]()|
-| 16/06/2020 |[]()|[solution]()|
+| 15/06/2020 |[Search in a Binary Search Tree](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/541/week-3-june-15th-june-21st/3361/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/June%2C%202020%20Challenge/Search%20in%20a%20Binary%20Search%20Tree.py)|
+| 16/06/2020 |[Validate IP Address](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/541/week-3-june-15th-june-21st/3362/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/June%2C%202020%20Challenge/Validate%20IP%20Address.py)|
 | 17/06/2020 |[]()|[solution]()|
 | 18/06/2020 |[]()|[solution]()|
 | 19/06/2020 |[]()|[solution]()|
