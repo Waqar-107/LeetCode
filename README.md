@@ -43,7 +43,7 @@
 ## June, 2020 Challenge
 | Date       | problem-link | solution |
 |------------|--------------|----------|
-| 01/06/2020 |[]()|[solution]()|
+| 01/06/2020 |[Arranging Coins](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3377/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/July%2C%202020%20Challenge/Arranging%20Coins.py)|
 | 02/06/2020 |[]()|[solution]()|
 | 03/06/2020 |[]()|[solution]()|
 | 04/06/2020 |[]()|[solution]()|
