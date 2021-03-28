@@ -54,7 +54,7 @@
 | 09/06/2020 |[Maximum Width of Binary Tree](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3385/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/July%2C%202020%20Challenge/Maximum%20Width%20of%20Binary%20Tree.py)|
 | 10/06/2020 |[]()|[solution]()|
 | 11/06/2020 |[]()|[solution]()|
-| 12/06/2020 |[]()|[solution]()|
+| 12/06/2020 |[Reverse Bits](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3388/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/July%2C%202020%20Challenge/Reverse%20Bits.py)|
 | 13/06/2020 |[]()|[solution]()|
 | 14/06/2020 |[]()|[solution]()|
 | 15/06/2020 |[]()|[solution]()|
