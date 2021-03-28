@@ -52,7 +52,7 @@
 | 07/06/2020 |[Island Perimeter](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3383/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/July%2C%202020%20Challenge/Island%20Perimeter.py)|
 | 08/06/2020 |[3Sum](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3384/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/July%2C%202020%20Challenge/3Sum.py)|
 | 09/06/2020 |[Maximum Width of Binary Tree](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3385/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/July%2C%202020%20Challenge/Maximum%20Width%20of%20Binary%20Tree.py)|
-| 10/06/2020 |[]()|[solution]()|
+| 10/06/2020 |[Flatten a Multilevel Doubly Linked List](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3386/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/July%2C%202020%20Challenge/Flatten%20a%20Multilevel%20Doubly%20Linked%20List.py)|
 | 11/06/2020 |[]()|[solution]()|
 | 12/06/2020 |[Reverse Bits](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3388/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/July%2C%202020%20Challenge/Reverse%20Bits.py)|
 | 13/06/2020 |[]()|[solution]()|
