@@ -51,7 +51,7 @@
 | 06/06/2020 |[Plus One](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3382/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/July%2C%202020%20Challenge/Plus%20One.py)|
 | 07/06/2020 |[Island Perimeter](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3383/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/July%2C%202020%20Challenge/Island%20Perimeter.py)|
 | 08/06/2020 |[3Sum](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3384/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/July%2C%202020%20Challenge/3Sum.py)|
-| 09/06/2020 |[]()|[solution]()|
+| 09/06/2020 |[Maximum Width of Binary Tree](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3385/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/July%2C%202020%20Challenge/Maximum%20Width%20of%20Binary%20Tree.py)|
 | 10/06/2020 |[]()|[solution]()|
 | 11/06/2020 |[]()|[solution]()|
 | 12/06/2020 |[]()|[solution]()|
