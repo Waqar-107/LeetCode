@@ -47,7 +47,7 @@
 | 02/06/2020 |[Binary Tree Level Order Traversal II](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3378/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/July%2C%202020%20Challenge/Binary%20Tree%20Level%20Order%20Traversal%20II.py)|
 | 03/06/2020 |[Prison Cells After N Days](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3379/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/July%2C%202020%20Challenge/Prison%20Cells%20After%20N%20Days.py)|
 | 04/06/2020 |[Ugly Number II](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3380/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/July%2C%202020%20Challenge/Ugly%20Number%20II.py)|
-| 05/06/2020 |[]()|[solution]()|
+| 05/06/2020 |[Hamming Distance](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3381/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/July%2C%202020%20Challenge/Hamming%20Distance.py)|
 | 06/06/2020 |[]()|[solution]()|
 | 07/06/2020 |[]()|[solution]()|
 | 08/06/2020 |[]()|[solution]()|
