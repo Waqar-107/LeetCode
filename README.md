@@ -1,10 +1,14 @@
-<a href="https://leetcode.com/waqar_107/"><img src="https://raw.githubusercontent.com/Waqar-107/LeetCode/377097361ea7a9fe732517540735a6ae6de25637/assests/leetcode_logo.svg" alt="" height="50" width="200"/></a>
+<a href="https://leetcode.com/waqar_107/"><img src="https://raw.githubusercontent.com/Waqar-107/LeetCode/8b8eac17fce92ff0ff3d7a07baa260c9bf972181/assets/leetcode_logo.svg" alt="" height="50" width="200"/></a>
+<br/><br/>
+
+<p><img src="https://raw.githubusercontent.com/Waqar-107/LeetCode/8b8eac17fce92ff0ff3d7a07baa260c9bf972181/assets/calendar.svg" alt="" height="30" width="30"/> Track of Daily Challenges</p>
 
 |Year|Jan|Feb|March|April|May|June|July|Aug|Sept|Oct|Nov|Dec|
 |----|---|---|-----|-----|---|----|----|---|----|---|---|---|
 |2020||||||8/30|0/31|20/31|30/30|31/31|29/30|27/31|
 |2021|25/31|28/28|28/31||||||||||
 
+<br/><br/><br/>
 ## June, 2020 Challenge
 | Date       | problem-link | solution |
 |------------|--------------|----------|
@@ -40,6 +44,7 @@
 | 30/06/2020 |[]()|[solution]()|
 
 
+<br/>
 ## July, 2020 Challenge
 | Date       | problem-link | solution |
 |------------|--------------|----------|
@@ -76,6 +81,7 @@
 | 31/06/2020 |[Climbing Stairs](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/548/week-5-july-29th-july-31st/3407/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/July%2C%202020%20Challenge/Climbing%20Stairs.py)|
 
 
+<br/>
 ## August, 2020 Challenge
 | Date       | problem-link | solution |
 |------------|--------------|----------|
@@ -112,6 +118,7 @@
 | 31/08/2020 |[Delete Node in a BST](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/553/week-5-august-29th-august-31st/3443/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/August%2C%202020%20Challenge/Delete%20Node%20in%20a%20BST.cs)|
 
 
+<br/>
 ## September, 2020 Challenge
 | Date       | problem-link | solution |
 |------------|--------------|----------|
@@ -147,8 +154,8 @@
 | 30/09/2020 |[First Missing Positive](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/558/week-5-september-29th-september-30th/3478/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/September%2C%202020%20Challenge/First%20Missing%20Positive.py)|
 
 
+<br/>
 ## October, 2020 Challenge
-
 | Date       | problem-link | solution |
 |------------|--------------|----------|
 | 01/10/2020 |[Number of Recent Calls](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3480/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/October%2C%202020%20Challenge/Number%20of%20Recent%20Calls.cpp)|
@@ -184,8 +191,8 @@
 | 31/10/2020 |[Recover Binary Search Tree](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/563/week-5-october-29th-october-31st/3514/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/October%2C%202020%20Challenge/Recover%20Binary%20Search%20Tree.py)|
 
 
+<br/>
 ## November, 2020 Challenge
-
 | Date       | problem-link | solution |
 |------------|--------------|----------|
 | 01/11/2020 |[Convert Binary Number in a Linked List to Integer](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/564/week-1-november-1st-november-7th/3516/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/November%2C%202020%20Challenge/Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.java)|
@@ -219,7 +226,7 @@
 | 29/11/2020 |[Jump Game III](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/568/week-5-november-29th-november-30th/3548/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/November%2C%202020%20Challenge/Jump%20Game%20III.py)|
 | 30/11/2020 |[]()|[solution]()|
 
-
+<br/>
 ## December 2020, Challenge
 | Date       | problem-link | solution |
 |------------|--------------|----------|
@@ -255,6 +262,8 @@
 | 30/12/2020 |[Game of Life](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/573/week-5-december-29th-december-31st/3586/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/December%2C%202020%20Challenge/Game%20of%20Life.py)|
 | 31/12/2020 |[Largest Rectangle in Histogram](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/573/week-5-december-29th-december-31st/3587/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/December%2C%202020%20Challenge/Largest%20Rectangle%20in%20Histogram.cpp)|
 
+
+<br/>
 ## January, 2021 Challenge
 | Date       | problem-link | solution |
 |------------|--------------|----------|
@@ -290,6 +299,8 @@
 | 30/01/2021 |[]()|[solution]()|
 | 31/01/2021 |[]()|[solution]()|
 
+
+<br/>
 ## February, 2021 Challenge
 | Date       | problem-link | solution |
 |------------|--------------|----------|
@@ -323,6 +334,7 @@
 | 28/02/2021 |[Maximum Frequency Stack](https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/587/week-4-february-22nd-february-28th/3655/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/February%2C%202021%20Challenge/Maximum%20Frequency%20Stack.cpp)|
 
 
+<br/>
 ## March, 2021 Challenge
 | Date       | problem-link | solution |
 |------------|--------------|----------|
@@ -357,3 +369,7 @@
 | 29/03/2021 |[Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/explore/featured/card/march-leetcoding-challenge-2021/592/week-5-march-29th-march-31st/3689/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/March%2C%202021%20Challenge/Flip%20Binary%20Tree%20To%20Match%20Preorder%20Traversal.py)|
 | 30/03/2021 |[]()|[solution]()|
 | 31/03/2021 |[]()|[solution]()|
+
+
+## icon credits
+<div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
