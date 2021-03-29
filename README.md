@@ -68,7 +68,7 @@
 | 23/06/2020 |[]()|[solution]()|
 | 24/06/2020 |[]()|[solution]()|
 | 25/06/2020 |[]()|[solution]()|
-| 26/06/2020 |[]()|[solution]()|
+| 26/06/2020 |[Add Digits](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3402/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/July%2C%202020%20Challenge/Add%20Digits.py)|
 | 27/06/2020 |[]()|[solution]()|
 | 28/06/2020 |[]()|[solution]()|
 | 29/06/2020 |[]()|[solution]()|
