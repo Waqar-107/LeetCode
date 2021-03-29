@@ -62,7 +62,7 @@
 | 17/06/2020 |[Top K Frequent Elements](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3393/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/July%2C%202020%20Challenge/Top%20K%20Frequent%20Elements.py)|
 | 18/06/2020 |[Course Schedule II](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3394/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/July%2C%202020%20Challenge/Course%20Schedule%20II.py)|
 | 19/06/2020 |[Add Binary](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3395/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/July%2C%202020%20Challenge/Add%20Binary.py)|
-| 20/06/2020 |[]()|[solution]()|
+| 20/06/2020 |[Remove Linked List Elements](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3396/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/July%2C%202020%20Challenge/Remove%20Linked%20List%20Elements.py)|
 | 21/06/2020 |[]()|[solution]()|
 | 22/06/2020 |[]()|[solution]()|
 | 23/06/2020 |[]()|[solution]()|
