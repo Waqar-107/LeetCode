@@ -302,7 +302,7 @@
 
 
 <br/><br/>
-## <a href="https://github.com/Waqar-107/LeetCode/tree/master/February%2C%202120%20Challenge">February, 2021 Challenge</a>
+## <a href="https://github.com/Waqar-107/LeetCode/tree/master/February%2C%202021%20Challenge">February, 2021 Challenge</a>
 | Date       | problem-link | solution |
 |------------|--------------|----------|
 | 01/02/2021 |[Number of 1 Bits](https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/584/week-1-february-1st-february-7th/3625/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/February%2C%202021%20Challenge/Number%20of%201%20Bits.py)|
@@ -336,7 +336,7 @@
 
 
 <br/><br/>
-## <a href="https://github.com/Waqar-107/LeetCode/tree/master/March%2C%202120%20Challenge">March, 2021 Challenge</a>
+## <a href="https://github.com/Waqar-107/LeetCode/tree/master/March%2C%202021%20Challenge">March, 2021 Challenge</a>
 | Date       | problem-link | solution |
 |------------|--------------|----------|
 | 01/03/2021 |[Distribute Candies](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/588/week-1-march-1st-march-7th/3657/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/March%2C%202021%20Challenge/Distribute%20Candies.py)|
