@@ -55,7 +55,7 @@
 | 10/06/2020 |[Flatten a Multilevel Doubly Linked List](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3386/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/July%2C%202020%20Challenge/Flatten%20a%20Multilevel%20Doubly%20Linked%20List.py)|
 | 11/06/2020 |[Subsets](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3387/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/July%2C%202020%20Challenge/Subsets.py)|
 | 12/06/2020 |[Reverse Bits](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3388/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/July%2C%202020%20Challenge/Reverse%20Bits.py)|
-| 13/06/2020 |[]()|[solution]()|
+| 13/06/2020 |[Same Tree](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3389/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/July%2C%202020%20Challenge/Same%20Tree.py)|
 | 14/06/2020 |[]()|[solution]()|
 | 15/06/2020 |[]()|[solution]()|
 | 16/06/2020 |[]()|[solution]()|
