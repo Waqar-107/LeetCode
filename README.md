@@ -63,9 +63,9 @@
 | 18/06/2020 |[Course Schedule II](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3394/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/July%2C%202020%20Challenge/Course%20Schedule%20II.py)|
 | 19/06/2020 |[Add Binary](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3395/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/July%2C%202020%20Challenge/Add%20Binary.py)|
 | 20/06/2020 |[Remove Linked List Elements](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3396/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/July%2C%202020%20Challenge/Remove%20Linked%20List%20Elements.py)|
-| 21/06/2020 |[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3398/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/July%2C%202020%20Challenge/Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.py)|
-| 22/06/2020 |[]()|[solution]()|
-| 23/06/2020 |[]()|[solution]()|
+| 21/06/2020 |[]()|[solution]()|
+| 22/06/2020 |[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3398/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/July%2C%202020%20Challenge/Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.py)|
+| 23/06/2020 |[Single Number III](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3399/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/July%2C%202020%20Challenge/Single%20Number%20III.py)|
 | 24/06/2020 |[]()|[solution]()|
 | 25/06/2020 |[]()|[solution]()|
 | 26/06/2020 |[Add Digits](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3402/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/July%2C%202020%20Challenge/Add%20Digits.py)|
