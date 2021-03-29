@@ -9,7 +9,7 @@
 |2021|25/31|28/28|28/31||||||||||
 
 <br/><br/>
-## June, 2020 Challenge
+## <a href="https://github.com/Waqar-107/LeetCode/tree/master/June%2C%202020%20Challenge">June, 2020 Challenge</a>
 | Date       | problem-link | solution |
 |------------|--------------|----------|
 | 01/06/2020 |[Invert Binary Tree](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/539/week-1-june-1st-june-7th/3347/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/June%2C%202020%20Challenge/Invert%20Binary%20Tree.cs)|
@@ -45,7 +45,7 @@
 
 
 <br/><br/>
-## July, 2020 Challenge
+## <a href="https://github.com/Waqar-107/LeetCode/tree/master/July%2C%202020%20Challenge">July, 2020 Challenge</a>
 | Date       | problem-link | solution |
 |------------|--------------|----------|
 | 01/06/2020 |[Arranging Coins](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3377/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/July%2C%202020%20Challenge/Arranging%20Coins.py)|
@@ -82,7 +82,7 @@
 
 
 <br/><br/>
-## August, 2020 Challenge
+## <a href="https://github.com/Waqar-107/LeetCode/tree/master/August%2C%202020%20Challenge">August, 2020 Challenge</a>
 | Date       | problem-link | solution |
 |------------|--------------|----------|
 | 01/08/2020 |[Detect Capital](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3409/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/August%2C%202020%20Challenge/Detect%20Capital.cs)|
@@ -119,7 +119,7 @@
 
 
 <br/><br/>
-## September, 2020 Challenge
+## <a href="https://github.com/Waqar-107/LeetCode/tree/master/September%2C%202020%20Challenge">September, 2020 Challenge</a>
 | Date       | problem-link | solution |
 |------------|--------------|----------|
 | 01/09/2020 |[Largest Time for Given Digits](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/554/week-1-september-1st-september-7th/3445/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/September%2C%202020%20Challenge/Largest%20Time%20for%20Given%20Digits.py)|
@@ -155,7 +155,7 @@
 
 
 <br/><br/>
-## October, 2020 Challenge
+## <a href="https://github.com/Waqar-107/LeetCode/tree/master/October%2C%202020%20Challenge">October, 2020 Challenge</a>
 | Date       | problem-link | solution |
 |------------|--------------|----------|
 | 01/10/2020 |[Number of Recent Calls](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3480/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/October%2C%202020%20Challenge/Number%20of%20Recent%20Calls.cpp)|
@@ -192,7 +192,7 @@
 
 
 <br/><br/>
-## November, 2020 Challenge
+## <a href="https://github.com/Waqar-107/LeetCode/tree/master/November%2C%202020%20Challenge">November, 2020 Challenge</a>
 | Date       | problem-link | solution |
 |------------|--------------|----------|
 | 01/11/2020 |[Convert Binary Number in a Linked List to Integer](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/564/week-1-november-1st-november-7th/3516/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/November%2C%202020%20Challenge/Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.java)|
@@ -228,7 +228,7 @@
 
 
 <br/><br/>
-## December 2020, Challenge
+## <a href="https://github.com/Waqar-107/LeetCode/tree/master/December%2C%202020%20Challenge">December, 2020 Challenge</a>
 | Date       | problem-link | solution |
 |------------|--------------|----------|
 | 01/12/2020 |[Maximum Depth of Binary Tree](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/569/week-1-december-1st-december-7th/3551/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/December%2C%202020%20Challenge/Maximum%20Depth%20of%20Binary%20Tree.java)|
@@ -265,7 +265,7 @@
 
 
 <br/><br/>
-## January, 2021 Challenge
+## <a href="https://github.com/Waqar-107/LeetCode/tree/master/January%2C%202021%20Challenge">January, 2021 Challenge</a>
 | Date       | problem-link | solution |
 |------------|--------------|----------|
 | 01/01/2021 |[Check Array Formation Through Concatenation](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/579/week-1-january-1st-january-7th/3589/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/January%202021%20Challenge/Check%20Array%20Formation%20Through%20Concatenation.py)|
@@ -302,7 +302,7 @@
 
 
 <br/><br/>
-## February, 2021 Challenge
+## <a href="https://github.com/Waqar-107/LeetCode/tree/master/February%2C%202120%20Challenge">February, 2021 Challenge</a>
 | Date       | problem-link | solution |
 |------------|--------------|----------|
 | 01/02/2021 |[Number of 1 Bits](https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/584/week-1-february-1st-february-7th/3625/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/February%2C%202021%20Challenge/Number%20of%201%20Bits.py)|
@@ -336,7 +336,7 @@
 
 
 <br/><br/>
-## March, 2021 Challenge
+## <a href="https://github.com/Waqar-107/LeetCode/tree/master/March%2C%202120%20Challenge">March, 2021 Challenge</a>
 | Date       | problem-link | solution |
 |------------|--------------|----------|
 | 01/03/2021 |[Distribute Candies](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/588/week-1-march-1st-march-7th/3657/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/March%2C%202021%20Challenge/Distribute%20Candies.py)|
