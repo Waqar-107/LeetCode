@@ -1,14 +1,14 @@
-<a href="https://leetcode.com/waqar_107/"><img src="https://raw.githubusercontent.com/Waqar-107/LeetCode/8b8eac17fce92ff0ff3d7a07baa260c9bf972181/assets/leetcode_logo.svg" alt="" height="50" width="200"/></a>
+<p align="center"><a href="https://leetcode.com/waqar_107/"><img src="https://raw.githubusercontent.com/Waqar-107/LeetCode/8b8eac17fce92ff0ff3d7a07baa260c9bf972181/assets/leetcode_logo.svg" alt="" height="50" width="200"/></a></p>
 <br/><br/>
 
-<p><img src="https://raw.githubusercontent.com/Waqar-107/LeetCode/8b8eac17fce92ff0ff3d7a07baa260c9bf972181/assets/calendar.svg" alt="" height="30" width="30"/> Track of Daily Challenges</p>
+<p align="left"><img src="https://raw.githubusercontent.com/Waqar-107/LeetCode/8b8eac17fce92ff0ff3d7a07baa260c9bf972181/assets/calendar.svg" alt="" height="30" width="30"/> Track of Daily Challenges</p>
 
 |Year|Jan|Feb|March|April|May|June|July|Aug|Sept|Oct|Nov|Dec|
 |----|---|---|-----|-----|---|----|----|---|----|---|---|---|
 |2020||||||8/30|0/31|20/31|30/30|31/31|29/30|27/31|
 |2021|25/31|28/28|28/31||||||||||
 
-<br/><br/><br/>
+<br/><br/>
 ## June, 2020 Challenge
 | Date       | problem-link | solution |
 |------------|--------------|----------|
