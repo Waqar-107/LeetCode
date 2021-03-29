@@ -73,7 +73,7 @@
 | 28/06/2020 |[]()|[solution]()|
 | 29/06/2020 |[]()|[solution]()|
 | 30/06/2020 |[]()|[solution]()|
-| 31/06/2020 |[]()|[solution]()|
+| 31/06/2020 |[Climbing Stairs](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/548/week-5-july-29th-july-31st/3407/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/July%2C%202020%20Challenge/Climbing%20Stairs.py)|
 
 
 ## August, 2020 Challenge
