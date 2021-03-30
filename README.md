@@ -6,7 +6,7 @@
 |Year|Jan|Feb|March|April|May|June|July|Aug|Sept|Oct|Nov|Dec|
 |----|---|---|-----|-----|---|----|----|---|----|---|---|---|
 |2020||||||12/30|24/31|20/31|30/30|31/31|29/30|27/31|
-|2021|25/31|28/28|28/31||||||||||
+|2021|25/31|28/28|30/31||||||||||
 
 <br/><br/>
 ## <a href="https://github.com/Waqar-107/LeetCode/tree/master/June%2C%202020%20Challenge">June, 2020 Challenge</a>
