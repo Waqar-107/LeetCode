@@ -5,7 +5,7 @@
 
 |Year|Jan|Feb|March|April|May|June|July|Aug|Sept|Oct|Nov|Dec|
 |----|---|---|-----|-----|---|----|----|---|----|---|---|---|
-|2020||||||12/30|24/31|20/31|30/30|31/31|29/30|27/31|
+|2020||||||12/30|26/31|20/31|30/30|31/31|29/30|27/31|
 |2021|25/31|28/28|30/31||||||||||
 
 <br/><br/>
@@ -75,7 +75,7 @@
 | 25/06/2020 |[Find Minimum in Rotated Sorted Array II]()|[solution](https://github.com/Waqar-107/LeetCode/blob/master/July%2C%202020%20Challenge/Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II.py)|
 | 26/06/2020 |[Add Digits](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3402/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/July%2C%202020%20Challenge/Add%20Digits.py)|
 | 27/06/2020 |[]()|[solution]()|
-| 28/06/2020 |[]()|[solution]()|
+| 28/06/2020 |[Task Scheduler](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3404/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/July%2C%202020%20Challenge/Task%20Scheduler.py)|
 | 29/06/2020 |[]()|[solution]()|
 | 30/06/2020 |[]()|[solution]()|
 | 31/06/2020 |[Climbing Stairs](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/548/week-5-july-29th-july-31st/3407/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/July%2C%202020%20Challenge/Climbing%20Stairs.py)|
