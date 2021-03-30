@@ -72,7 +72,7 @@
 | 22/06/2020 |[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3398/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/July%2C%202020%20Challenge/Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.py)|
 | 23/06/2020 |[Single Number III](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3399/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/July%2C%202020%20Challenge/Single%20Number%20III.py)|
 | 24/06/2020 |[]()|[solution]()|
-| 25/06/2020 |[]()|[solution]()|
+| 25/06/2020 |[Find Minimum in Rotated Sorted Array II]()|[solution](https://github.com/Waqar-107/LeetCode/blob/master/July%2C%202020%20Challenge/Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II.py)|
 | 26/06/2020 |[Add Digits](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3402/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/July%2C%202020%20Challenge/Add%20Digits.py)|
 | 27/06/2020 |[]()|[solution]()|
 | 28/06/2020 |[]()|[solution]()|
