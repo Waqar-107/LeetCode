@@ -13,6 +13,7 @@ class Solution:
         
         while len(cnt) and idle > 0:
             idle -= min(mx - 1, cnt.pop())
+            idle = max(0, idle)
         
         return idle + len(tasks)
         
