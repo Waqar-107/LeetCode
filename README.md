@@ -369,7 +369,7 @@
 | 28/03/2021 |[Reconstruct Original Digits from English](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/591/week-4-march-22nd-march-28th/3687/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/March%2C%202021%20Challenge/Reconstruct%20Original%20Digits%20from%20English.py)|
 | 29/03/2021 |[Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/explore/featured/card/march-leetcoding-challenge-2021/592/week-5-march-29th-march-31st/3689/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/March%2C%202021%20Challenge/Flip%20Binary%20Tree%20To%20Match%20Preorder%20Traversal.py)|
 | 30/03/2021 |[Russian Doll Envelopes](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/592/week-5-march-29th-march-31st/3690/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/March%2C%202021%20Challenge/Russian%20Doll%20Envelopes.cpp)|
-| 31/03/2021 |[]()|[solution]()|
+| 31/03/2021 |[Stamping The Sequence](https://leetcode.com/explore/featured/card/march-leetcoding-challenge-2021/592/week-5-march-29th-march-31st/3691/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/March%2C%202021%20Challenge/Stamping%20The%20Sequence.cpp)|
 
 
 ## icon credits
