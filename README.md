@@ -6,7 +6,7 @@
 |Year|Jan|Feb|March|April|May|June|July|Aug|Sept|Oct|Nov|Dec|
 |----|---|---|-----|-----|---|----|----|---|----|---|---|---|
 |2020||||||12/30|26/31|20/31|30/30|31/31|29/30|27/31|
-|2021|25/31|28/28|30/31||||||||||
+|2021|25/31|28/28|31/31||||||||||
 
 <br/><br/>
 ## <a href="https://github.com/Waqar-107/LeetCode/tree/master/June%2C%202020%20Challenge">June, 2020 Challenge</a>
@@ -370,6 +370,42 @@
 | 29/03/2021 |[Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/explore/featured/card/march-leetcoding-challenge-2021/592/week-5-march-29th-march-31st/3689/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/March%2C%202021%20Challenge/Flip%20Binary%20Tree%20To%20Match%20Preorder%20Traversal.py)|
 | 30/03/2021 |[Russian Doll Envelopes](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/592/week-5-march-29th-march-31st/3690/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/March%2C%202021%20Challenge/Russian%20Doll%20Envelopes.cpp)|
 | 31/03/2021 |[Stamping The Sequence](https://leetcode.com/explore/featured/card/march-leetcoding-challenge-2021/592/week-5-march-29th-march-31st/3691/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/March%2C%202021%20Challenge/Stamping%20The%20Sequence.cpp)|
+
+
+<br/><br/>
+## <a href="https://github.com/Waqar-107/LeetCode/tree/master/April%2C%202021%20Challenge">April, 2021 Challenge</a>
+| Date       | problem-link | solution |
+|------------|--------------|----------|
+| 01/04/2021 |[]()|[solution]()|
+| 02/04/2021 |[]()|[solution]()|
+| 03/04/2021 |[]()|[solution]()|
+| 04/04/2021 |[]()|[solution]()|
+| 05/04/2021 |[]()|[solution]()|
+| 06/04/2021 |[]()|[solution]()|
+| 07/04/2021 |[]()|[solution]()|
+| 08/04/2021 |[]()|[solution]()|
+| 09/04/2021 |[]()|[solution]()|
+| 10/04/2021 |[]()|[solution]()|
+| 11/04/2021 |[]()|[solution]()|
+| 12/04/2021 |[]()|[solution]()|
+| 13/04/2021 |[]()|[solution]()|
+| 14/04/2021 |[]()|[solution]()|
+| 15/04/2021 |[]()|[solution]()|
+| 16/04/2021 |[]()|[solution]()|
+| 17/04/2021 |[]()|[solution]()|
+| 18/04/2021 |[]()|[solution]()|
+| 19/04/2021 |[]()|[solution]()|
+| 20/04/2021 |[]()|[solution]()|
+| 21/04/2021 |[]()|[solution]()|
+| 22/04/2021 |[]()|[solution]()|
+| 23/04/2021 |[]()|[solution]()|
+| 24/04/2021 |[]()|[solution]()|
+| 25/04/2021 |[]()|[solution]()|
+| 26/04/2021 |[]()|[solution]()|
+| 27/04/2021 |[]()|[solution]()|
+| 28/04/2021 |[]()|[solution]()|
+| 29/04/2021 |[]()|[solution]()|
+| 30/04/2021 |[]()|[solution]()|
 
 
 ## icon credits
