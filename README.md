@@ -376,7 +376,7 @@
 ## <a href="https://github.com/Waqar-107/LeetCode/tree/master/April%2C%202021%20Challenge">April, 2021 Challenge</a>
 | Date       | problem-link | solution |
 |------------|--------------|----------|
-| 01/04/2021 |[]()|[solution]()|
+| 01/04/2021 |[Palindrome Linked List](https://leetcode.com/explore/challenge/card/april-leetcoding-challenge-2021/593/week-1-april-1st-april-7th/3693/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/April%202021%2C%20Challenge/Palindrome%20Linked%20List.py)|
 | 02/04/2021 |[]()|[solution]()|
 | 03/04/2021 |[]()|[solution]()|
 | 04/04/2021 |[]()|[solution]()|
