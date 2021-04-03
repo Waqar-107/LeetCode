@@ -105,4 +105,4 @@
 |[1352. Product of the Last K Numbers]()|[solution]()|
 |[1416. Restore The Array]()|[solution]()|
 |[1477. Find Two Non-overlapping Sub-arrays Each With Target Sum]()|[solution]()|
-|[1631. Path With Minimum Effort]()|[solution]()|
+|[1631. Path With Minimum Effort :heavy_check_mark:](https://leetcode.com/problems/path-with-minimum-effort/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/Company%20Wise%20Problems/ByteDance/1631.%20Path%20With%20Minimum%20Effort.cs)|
