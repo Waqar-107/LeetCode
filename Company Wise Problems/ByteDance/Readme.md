@@ -1,4 +1,5 @@
-|problem|solution|
+| problem | solution |
+|---------|----------|
 |[1. Two Sum]()|[solution]()|
 |[3. Longest Substring Without Repeating Characters]()|[solution]()|
 |[21. Merge Two Sorted Lists]()|[solution]()|
