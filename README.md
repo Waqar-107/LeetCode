@@ -379,7 +379,7 @@
 | 01/04/2021 |[Palindrome Linked List](https://leetcode.com/explore/challenge/card/april-leetcoding-challenge-2021/593/week-1-april-1st-april-7th/3693/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/April%202021%2C%20Challenge/Palindrome%20Linked%20List.py)|
 | 02/04/2021 |[Ones and Zeroes](https://leetcode.com/explore/challenge/card/april-leetcoding-challenge-2021/593/week-1-april-1st-april-7th/3694/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/April%202021%2C%20Challenge/Ones%20and%20Zeroes.cpp)|
 | 03/04/2021 |[Longest Valid Parentheses](https://leetcode.com/explore/challenge/card/april-leetcoding-challenge-2021/593/week-1-april-1st-april-7th/3695/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/April%202021%2C%20Challenge/Longest%20Valid%20Parentheses.py)|
-| 04/04/2021 |[]()|[solution]()|
+| 04/04/2021 |[Design Circular Queue](https://leetcode.com/explore/challenge/card/april-leetcoding-challenge-2021/593/week-1-april-1st-april-7th/3696/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/April%202021%2C%20Challenge/Design%20Circular%20Queue.py)|
 | 05/04/2021 |[]()|[solution]()|
 | 06/04/2021 |[]()|[solution]()|
 | 07/04/2021 |[]()|[solution]()|
