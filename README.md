@@ -6,7 +6,7 @@
 |Year|Jan|Feb|March|April|May|June|July|Aug|Sept|Oct|Nov|Dec|
 |----|---|---|-----|-----|---|----|----|---|----|---|---|---|
 |2020||||||12/30|26/31|20/31|30/30|31/31|29/30|27/31|
-|2021|25/31|28/28|31/31|3/31|||||||||
+|2021|25/31|28/28|31/31|5/31|||||||||
 
 <br/><br/>
 ## <a href="https://github.com/Waqar-107/LeetCode/tree/master/June%2C%202020%20Challenge">June, 2020 Challenge</a>
@@ -380,7 +380,7 @@
 | 02/04/2021 |[Ones and Zeroes](https://leetcode.com/explore/challenge/card/april-leetcoding-challenge-2021/593/week-1-april-1st-april-7th/3694/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/April%202021%2C%20Challenge/Ones%20and%20Zeroes.cpp)|
 | 03/04/2021 |[Longest Valid Parentheses](https://leetcode.com/explore/challenge/card/april-leetcoding-challenge-2021/593/week-1-april-1st-april-7th/3695/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/April%202021%2C%20Challenge/Longest%20Valid%20Parentheses.py)|
 | 04/04/2021 |[Design Circular Queue](https://leetcode.com/explore/challenge/card/april-leetcoding-challenge-2021/593/week-1-april-1st-april-7th/3696/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/April%202021%2C%20Challenge/Design%20Circular%20Queue.py)|
-| 05/04/2021 |[]()|[solution]()|
+| 05/04/2021 |[Global and Local Inversions](https://leetcode.com/explore/challenge/card/april-leetcoding-challenge-2021/593/week-1-april-1st-april-7th/3697/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/April%202021%2C%20Challenge/Global%20and%20Local%20Inversions.cpp)|
 | 06/04/2021 |[]()|[solution]()|
 | 07/04/2021 |[]()|[solution]()|
 | 08/04/2021 |[]()|[solution]()|
