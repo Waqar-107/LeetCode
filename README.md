@@ -6,7 +6,7 @@
 |Year|Jan|Feb|March|April|May|June|July|Aug|Sept|Oct|Nov|Dec|
 |----|---|---|-----|-----|---|----|----|---|----|---|---|---|
 |2020||||||12/30|26/31|20/31|30/30|31/31|29/30|27/31|
-|2021|25/31|28/28|31/31|9/31|||||||||
+|2021|25/31|28/28|31/31|10/31|||||||||
 
 <br/><br/>
 ## <a href="https://github.com/Waqar-107/LeetCode/tree/master/June%2C%202020%20Challenge">June, 2020 Challenge</a>
@@ -385,7 +385,7 @@
 | 07/04/2021 |[Determine if String Halves Are Alike](https://leetcode.com/explore/challenge/card/april-leetcoding-challenge-2021/593/week-1-april-1st-april-7th/3699/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/April%202021%2C%20Challenge/Determine%20if%20String%20Halves%20Are%20Alike.py)|
 | 08/04/2021 |[Letter Combinations of a Phone Number](https://leetcode.com/explore/challenge/card/april-leetcoding-challenge-2021/594/week-2-april-8th-april-14th/3701/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/April%202021%2C%20Challenge/Letter%20Combinations%20of%20a%20Phone%20Number.py)|
 | 09/04/2021 |[Verifying an Alien Dictionary](https://leetcode.com/explore/challenge/card/april-leetcoding-challenge-2021/594/week-2-april-8th-april-14th/3702/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/April%202021%2C%20Challenge/Verifying%20an%20Alien%20Dictionary.cpp)|
-| 10/04/2021 |[]()|[solution]()|
+| 10/04/2021 |[Longest Increasing Path in a Matrix](https://leetcode.com/explore/challenge/card/april-leetcoding-challenge-2021/594/week-2-april-8th-april-14th/3703/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/April%202021%2C%20Challenge/Longest%20Increasing%20Path%20in%20a%20Matrix.cpp)|
 | 11/04/2021 |[]()|[solution]()|
 | 12/04/2021 |[]()|[solution]()|
 | 13/04/2021 |[]()|[solution]()|
