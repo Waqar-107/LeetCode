@@ -392,7 +392,7 @@
 | 14/04/2021 |[Partition List](https://leetcode.com/explore/challenge/card/april-leetcoding-challenge-2021/594/week-2-april-8th-april-14th/3707/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/April%202021%2C%20Challenge/Partition%20List.py)|
 | 15/04/2021 |[Fibonacci Number](https://leetcode.com/explore/challenge/card/april-leetcoding-challenge-2021/595/week-3-april-15th-april-21st/3709/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/April%202021%2C%20Challenge/Fibonacci%20Number.py)|
 | 16/04/2021 |[Remove All Adjacent Duplicates in String II](https://leetcode.com/explore/challenge/card/april-leetcoding-challenge-2021/595/week-3-april-15th-april-21st/3710/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/April%202021%2C%20Challenge/Remove%20All%20Adjacent%20Duplicates%20in%20String%20II.cs)|
-| 17/04/2021 |[]()|[solution]()|
+| 17/04/2021 |[Remove Nth Node From End of List](https://leetcode.com/explore/challenge/card/april-leetcoding-challenge-2021/595/week-3-april-15th-april-21st/3712/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/April%202021%2C%20Challenge/Remove%20Nth%20Node%20From%20End%20of%20List.py)|
 | 18/04/2021 |[]()|[solution]()|
 | 19/04/2021 |[]()|[solution]()|
 | 20/04/2021 |[]()|[solution]()|
