@@ -395,7 +395,7 @@
 | 17/04/2021 |[]()|[solution]()|
 | 18/04/2021 |[Remove Nth Node From End of List](https://leetcode.com/explore/challenge/card/april-leetcoding-challenge-2021/595/week-3-april-15th-april-21st/3712/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/April%202021%2C%20Challenge/Remove%20Nth%20Node%20From%20End%20of%20List.py)|
 | 19/04/2021 |[Combination Sum IV](https://leetcode.com/explore/challenge/card/april-leetcoding-challenge-2021/595/week-3-april-15th-april-21st/3713/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/April%202021%2C%20Challenge/Combination%20Sum%20IV.cpp)|
-| 20/04/2021 |[]()|[solution]()|
+| 20/04/2021 |[N-ary Tree Preorder Traversal](https://leetcode.com/explore/challenge/card/april-leetcoding-challenge-2021/595/week-3-april-15th-april-21st/3714/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/April%202021%2C%20Challenge/N-ary%20Tree%20Preorder%20Traversal.py)|
 | 21/04/2021 |[]()|[solution]()|
 | 22/04/2021 |[]()|[solution]()|
 | 23/04/2021 |[]()|[solution]()|
