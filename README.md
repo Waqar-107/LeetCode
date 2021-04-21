@@ -6,7 +6,7 @@
 |Year|Jan|Feb|March|April|May|June|July|Aug|Sept|Oct|Nov|Dec|
 |----|---|---|-----|-----|---|----|----|---|----|---|---|---|
 |2020||||||12/30|26/31|20/31|30/30|31/31|29/30|27/31|
-|2021|25/31|28/28|31/31|18/31|||||||||
+|2021|25/31|28/28|31/31|20/31|||||||||
 
 <br/><br/>
 ## <a href="https://github.com/Waqar-107/LeetCode/tree/master/June%2C%202020%20Challenge">June, 2020 Challenge</a>
@@ -396,7 +396,7 @@
 | 18/04/2021 |[Remove Nth Node From End of List](https://leetcode.com/explore/challenge/card/april-leetcoding-challenge-2021/595/week-3-april-15th-april-21st/3712/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/April%202021%2C%20Challenge/Remove%20Nth%20Node%20From%20End%20of%20List.py)|
 | 19/04/2021 |[Combination Sum IV](https://leetcode.com/explore/challenge/card/april-leetcoding-challenge-2021/595/week-3-april-15th-april-21st/3713/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/April%202021%2C%20Challenge/Combination%20Sum%20IV.cpp)|
 | 20/04/2021 |[N-ary Tree Preorder Traversal](https://leetcode.com/explore/challenge/card/april-leetcoding-challenge-2021/595/week-3-april-15th-april-21st/3714/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/April%202021%2C%20Challenge/N-ary%20Tree%20Preorder%20Traversal.py)|
-| 21/04/2021 |[]()|[solution]()|
+| 21/04/2021 |[Triangle](https://leetcode.com/explore/challenge/card/april-leetcoding-challenge-2021/595/week-3-april-15th-april-21st/3715/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/April%202021%2C%20Challenge/Triangle.cpp)|
 | 22/04/2021 |[]()|[solution]()|
 | 23/04/2021 |[]()|[solution]()|
 | 24/04/2021 |[]()|[solution]()|
