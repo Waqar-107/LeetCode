@@ -402,7 +402,7 @@
 | 24/04/2021 |[]()|[solution]()|
 | 25/04/2021 |[]()|[solution]()|
 | 26/04/2021 |[]()|[solution]()|
-| 27/04/2021 |[]()|[solution]()|
+| 27/04/2021 |[Power of Three](https://leetcode.com/explore/challenge/card/april-leetcoding-challenge-2021/596/week-4-april-22nd-april-28th/3722/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/April%202021%2C%20Challenge/Power%20of%20Three.py)|
 | 28/04/2021 |[]()|[solution]()|
 | 29/04/2021 |[]()|[solution]()|
 | 30/04/2021 |[]()|[solution]()|
