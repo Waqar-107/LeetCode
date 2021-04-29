@@ -404,7 +404,7 @@
 | 26/04/2021 |[]()|[solution]()|
 | 27/04/2021 |[Power of Three](https://leetcode.com/explore/challenge/card/april-leetcoding-challenge-2021/596/week-4-april-22nd-april-28th/3722/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/April%202021%2C%20Challenge/Power%20of%20Three.py)|
 | 28/04/2021 |[]()|[solution]()|
-| 29/04/2021 |[]()|[solution]()|
+| 29/04/2021 |[Find First and Last Position of Element in Sorted Array](https://leetcode.com/explore/challenge/card/april-leetcoding-challenge-2021/597/week-5-april-29th-april-30th/3725/)|[solution](https://github.com/Waqar-107/LeetCode/blob/master/April%202021%2C%20Challenge/Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.py)|
 | 30/04/2021 |[]()|[solution]()|
 
 
