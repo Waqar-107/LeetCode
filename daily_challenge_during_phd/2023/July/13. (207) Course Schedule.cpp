@@ -1,3 +1,5 @@
+// Algorithm used - Topological Sort
+
 class Solution {
 public:
     vector<vector<int>> adj;
