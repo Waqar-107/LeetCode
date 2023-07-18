@@ -7,5 +7,7 @@
 | 07/15/2023 | [1751. Maximum Number of Events That Can Be Attended II](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/description/) | [solution](https://github.com/Waqar-107/LeetCode/blob/master/daily_challenge_during_phd/2023/July/Maximum%20Number%20of%20Events%20That%20Can%20Be%20Attended%20II.cpp) |
 | 07/16/2023 | []() | [solution]() |
 | 07/17/2023 | [445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/description/) | [solution](https://github.com/Waqar-107/LeetCode/blob/master/daily_challenge_during_phd/2023/July/Add%20Two%20Numbers%20II.cpp) |
-| 07/18/2023 | []() | [solution]() |
+| 07/18/2023 | [146. LRU Cache](https://leetcode.com/problems/lru-cache/description/) | [solution](https://github.com/Waqar-107/LeetCode/blob/master/daily_challenge_during_phd/2023/July/LRU%20Cache.cpp) |
 | 07/19/2023 | []() | [solution]() |
+| 07/20/2023 | []() | [solution]() |
+| 07/21/2023 | []() | [solution]() |
